@@ -1,0 +1,718 @@
+{
+  "items": [
+    {
+      "description": "A living collection of frontier research on autonomous code agents, from the code we build to the worlds we act in.\n\n\nImage Credit: ChatGPT.",
+      "items": [],
+      "title": "The Digital World We Are Building. The Real World We Are Acting In."
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Survey of Vibe Coding with Large Language Models.Yuyao Ge, Lingrui Mei, Zenghao Duan, Tianhao Li, Yujia Zheng, Yiwei Wang, Lexin Wang, Jiayu Yao, Tianyu Liu, Yujun Cai, et al. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-29T09:43:37Z",
+            "owner": "YuyaoGe",
+            "repo": "Awesome-Vibe-Coding",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping Software Engineering.Hao Li, Haoxiang Zhang, Ahmed E. Hassan. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-24T16:22:11Z",
+            "owner": "SAILResearch",
+            "repo": "AI_Teammates_in_SE3",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey on Code Generation with LLM-based Agents.Yihong Dong, Xue Jiang, Jiaru Qian, Tian Wang, Kechi Zhang, Zhi Jin, Ge Li. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-12T01:58:02Z",
+            "owner": "JiaruQian",
+            "repo": "awesome-llm-based-agent4code",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System.Jiale Guo, Suizhi Huang, Mei Li, Dong Huang, Xingsheng Chen, Regina Zhang, Zhijiang Guo, Han Yu, Siu-Ming Yiu, Christian Jensen, et al. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-23T05:18:53Z",
+            "owner": "lisaGuojl",
+            "repo": "LLM-Agent-SE-Survey",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "📊 Surveys & Empirical Studies"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧱 Code as Artifact: Building the Digital World"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "💻 General Software"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Trae Agent: An LLM-based Agent for Software Engineering with Test-time Scaling.Trae Research Team: Pengfei Gao, Zhao Tian, Xiangxin Meng, Xinchen Wang, Ruida Hu, Yuanan Xiao, Yizhou Liu, Zhao Zhang, Junjie Chen, Cuiyun Gao, et al. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-05T11:21:00Z",
+            "owner": "bytedance",
+            "repo": "trae-agent",
+            "stars": 12021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus: Unified Knowledge Graphs for Issue Resolution in Multilingual Codebases.Zimin Chen, Yue Pan, Siyu Lu, Jiayi Xu, Claire Le Goues, Martin Monperrus, He Ye. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-04T16:33:47Z",
+            "owner": "EuniAI",
+            "repo": "Prometheus",
+            "stars": 1122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents.Xingyao Wang, Simon Rosenberg, Juan Michelini, Calvin Smith, Hoang Tran, Engel Nyst, Rohit Malhotra, Xuhui Zhou, Valerie Chen, Robert Brennan, et al. arXiv 2025/11.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:21:29Z",
+            "owner": "OpenHands",
+            "repo": "software-agent-sdk",
+            "stars": 984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Sharp-Bench: A Reproducible Benchmark for C# Software Engineering Tasks.Sanket Mhatre, Yasharth Bajpai, Sumit Gulwani, Emerson Murphy-Hill, Gustavo Soares. arXiv 2025/11.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-19T21:02:37Z",
+            "owner": "microsoft",
+            "repo": "prose",
+            "stars": 661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?Xiang Deng, Jeff Da, Edwin Pan, Yannis Yiming He, Charles Ide, Kanak Garg, Niklas Lauffer, Andrew Park, Nitin Pasari, Chetan Rane, et al. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T18:59:22Z",
+            "owner": "scaleapi",
+            "repo": "SWE-bench_Pro-os",
+            "stars": 499
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?Chunqiu Steven Xia, Zhe Wang, Yan Yang, Yuxiang Wei, Lingming Zhang. arXiv 2025/11.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-19T23:29:01Z",
+            "owner": "OpenAutoCoder",
+            "repo": "live-swe-agent",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SE-Agent: Self-Evolution Trajectory Optimization in Multi-Step Reasoning with LLM-Based Agents.Jiaye Lin, Yifu Guo, Yuzhen Han, Sen Hu, Ziyi Ni, Licheng Wang, Mingguang Chen, Hongzhang Liu, Ronghao Chen, Yangfan He, et al. NeurIPS 2025.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-23T01:32:14Z",
+            "owner": "JARVIS-Xs",
+            "repo": "SE-Agent",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lingxi: Repository-Level Issue Resolution Framework Enhanced by Procedural Knowledge Guided Scaling.Xu Yang, Jiayuan Zhou, Michael Pacheco, Wenhan Zhu, Pengfei He, Shaowei Wang, Kui Liu, Ruiqi Pan. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T19:27:28Z",
+            "owner": "lingxi-agent",
+            "repo": "Lingxi",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving.Chaofan Tao, Jierun Chen, Yuxin Jiang, Kaiqi Kou, Shaowei Wang, Ruoyu Wang, Xiaohui Li, Sidi Yang, Yiming Du, Jianbo Dai, et al. arXiv 2026/01.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-28T09:11:58Z",
+            "owner": "LegoX",
+            "repo": "SWE-Lego",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Exp: Experience-Driven Software Issue Resolution.Silin Chen, Shaoxin Lin, Xiaodong Gu, Yuling Shi, Heng Lian, Longfei Yun, Dong Chen, Weiguo Sun, Lin Cao, Qianxiang Wang. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-17T02:39:08Z",
+            "owner": "cslsolow",
+            "repo": "SWE-Exp",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SIADAFIX: issue description response for adaptive program repair.Xin Cao, Nan Yu. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T12:20:57Z",
+            "owner": "liauto-siada",
+            "repo": "siada-cli",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution.Han Li, Yuling Shi, Shaoxin Lin, Xiaodong Gu, Heng Lian, Xin Wang, Yantao Jia, Tao Huang, Qianxiang Wang. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-11T08:19:37Z",
+            "owner": "YerbaPage",
+            "repo": "SWE-Debate",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-MERA: A Dynamic Benchmark for Agenticly Evaluating Large Language Models on Software Engineering Tasks.Pavel Adamenko, Mikhail Ivanov, Aidar Valeev, Rodion Levichev, Pavel Zadorozhny, Ivan Lopatin, Dmitry Babayev, Alena Fenogenova, Valentin Malykh. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-13T02:48:31Z",
+            "owner": "MERA-Evaluation",
+            "repo": "repotest",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints.Zhiyu Fan, Kirill Vasilevski, Dayi Lin, Boyuan Chen, Yihao Chen, Zhiqing Zhong, Jie M. Zhang, Pinjia He, Ahmed E. Hassan. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-20T14:40:44Z",
+            "owner": "Centre-for-Software-Excellence",
+            "repo": "SWE-Effi",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation.Andrey Podivilov, Vadim Lomshakov, Sergey Savin, Matvei Startsev, Roman Pozharskiy, Maksim Parshin, Sergey Nikolenko. arXiv 2026/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:32:50Z",
+            "owner": "agent-lens",
+            "repo": "agent-lens-bench",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing.Konstantinos Kitsios, Marco Castelluccio, Alberto Bacchelli. ASE 2025.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-07T21:53:05Z",
+            "owner": "kitsiosk",
+            "repo": "blast",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "🐛 Debugging & Issue Resolution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CWM: An Open-Weights LLM for Research on Code Generation with World Models.FAIR CodeGen team, Jade Copet, Quentin Carbonneaux, Gal Cohen, Jonas Gehring, Jacob Kahn, Jannik Kossen, Felix Kreuk, Emily McMilin, Michel Meyer, et al. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T22:51:17Z",
+            "owner": "facebookresearch",
+            "repo": "cwm",
+            "stars": 887
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence.Qiushi Sun, Jingyang Gong, Yang Liu, Qiaosheng Chen, Lei Li, Kai Chen, Qipeng Guo, Ben Kao, Fei Yuan. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-09T04:22:10Z",
+            "owner": "InternLM",
+            "repo": "JanusCoder",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History.Ruofan Lu, Yintong Huo, Meng Zhang, Yichen Li, Michael R. Lyu. arXiv 2025/08.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-14T14:22:16Z",
+            "owner": "lurf21",
+            "repo": "NextEditPrediction",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Towards Realistic Project-Level Code Generation via Multi-Agent Collaboration and Semantic Architecture Modeling.Qianhui Zhao, Li Zhang, Fang Liu, Junhang Cheng, Chengru Wu, Junchen Ai, Qiaoyuanhe Meng, Lichen Zhang, Xiaoli Lian, Shubin Song, et al. arXiv 2025/11.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-01T12:07:03Z",
+            "owner": "whisperzqh",
+            "repo": "ProjectGen",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "✏️ Code Generation & Completion"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Controlled Self-Evolution for Algorithmic Code Optimization.Tu Hu, Ronghao Chen, Shuo Zhang, Jianghao Yin, Mou Xiao Feng, Jingping Liu, Shaolei Zhang, Wenqi Jiang, Yuqi Fang, Sen Hu, et al. arXiv 2026/01.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T14:07:36Z",
+            "owner": "QuantaAlpha",
+            "repo": "EvoControl",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?Xinyi He, Qian Liu, Mingzhe Du, Lin Yan, Zhijie Fan, Yiming Huang, Zejian Yuan, Zejun Ma. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-28T18:15:12Z",
+            "owner": "SWE-Perf",
+            "repo": "SWE-Perf",
+            "stars": 53
+          }
+        }
+      ],
+      "title": "🔄 Maintenance & Evolution"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "When “Correct” Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?Yibo Peng, James Song, Lei Li, Xinyu Yang, Mihai Christodorescu, Ravi Mangal, Corina Pasareanu, Haizhong Zheng, Beidi Chen. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-04T01:29:43Z",
+            "owner": "Infini-AI-Lab",
+            "repo": "FCV",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SecureAgentBench: Benchmarking Secure Code Generation under Realistic Vulnerability Scenarios.Junkai Chen, Huihui Huang, Yunbo Lyu, Junwen An, Jieke Shi, Chengran Yang, Ting Zhang, Haoye Tian, Yikun Li, Zhenhao Li, et al. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2026-04-12T11:30:28Z",
+            "owner": "iCSawyer",
+            "repo": "SecureAgentBench",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "🔒 Security"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds.Bingquan Dai, Li Ray Luo, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, Minghan Qin, Xudong Xu, Bo Dai, Haoqian Wang, et al. arXiv 2025/08.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T06:59:39Z",
+            "owner": "InternRobotics",
+            "repo": "MeshCoder",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis.Yixuan Yang, Zhen Luo, Wanshui Gan, Jinkun Hao, Junru Lu, Jinghao Yan, Zhaoyang Lyu, Xudong Xu. arXiv 2026/05.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T00:20:03Z",
+            "owner": "YxuanAr",
+            "repo": "Code-as-Room",
+            "stars": 225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Design of Compositional Machines.Wenqian Zhang, Weiyang Liu, Zhen Liu. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-09T06:17:30Z",
+            "owner": "Godheritage",
+            "repo": "BesiegeField",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "🧊 3D & CAD"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ScreenCoder: Advancing Visual-to-Code Generation for Front-End Automation via Modular Multimodal Agents.Yilei Jiang, Yaozhi Zheng, Yuxuan Wan, Jiaming Han, Qunzhong Wang, Michael R. Lyu, Xiangyu Yue. arXiv 2025/07.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-22T07:49:47Z",
+            "owner": "leigest519",
+            "repo": "ScreenCoder",
+            "stars": 2928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression.Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-05T04:14:39Z",
+            "owner": "WebPAI",
+            "repo": "EfficientUICoder",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning.Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie Zhan, Hongsheng Li. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T05:35:11Z",
+            "owner": "mnluzimu",
+            "repo": "WebGen-Agent",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Automatically Generating Web Applications from Requirements Via Multi-Agent Test-Driven Development.Yuxuan Wan, Tingshuo Liang, Jiakai Xu, Jingyu Xiao, Yintong Huo, Michael R. Lyu. arXiv 2025/09.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-10-21T06:30:01Z",
+            "owner": "yxwan123",
+            "repo": "TDDev",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InteractScience: Programmatic and Visually-Grounded Evaluation of Interactive Scientific Demonstration Code Generation.Qiaosheng Chen, Yang Liu, Lei Li, Kai Chen, Qipeng Guo, Gong Cheng, Fei Yuan. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-10-31T03:19:07Z",
+            "owner": "open-compass",
+            "repo": "InteractScience",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "🌐 Web Applications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌍 Code as Agency: Acting in the Real World"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces.Mike A. Merrill, Alexander G. Shaw, Nicholas Carlini, Boxuan Li, Harsh Raj, Ivan Bercovich, Lin Shi, Jeong Yeon Shin, Thomas Walshe, E. Kelly Buchanan, et al. 2026.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:37:10Z",
+            "owner": "harbor-framework",
+            "repo": "terminal-bench",
+            "stars": 489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitTaskBench: A Benchmark for Code Agents Solving Real-World Tasks Through Code Repository Leveraging.Ziyi Ni, Huacan Wang, Shuo Zhang, Shuo Lu, Ziyang He, Wang You, Zhenheng Tang, Yuntao Du, Bill Sun, Hongzhang Liu, et al. arXiv 2025/08.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-22T14:34:08Z",
+            "owner": "QuantaAlpha",
+            "repo": "GitTaskBench",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Data Protocol: Unifying Datasets for Diverse, Effective Fine-tuning of LLM Agents.Yueqi Song, Ketan Ramaneti, Zaid Sheikh, Ziru Chen, Boyu Gou, Tianbao Xie, Yiheng Xu, Danyang Zhang, Apurva Gandhi, Fan Yang, et al. arXiv 2025/10.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-14T05:53:53Z",
+            "owner": "neulab",
+            "repo": "agent-data-protocol",
+            "stars": 188
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents.Kaijie Zhu, Yuzhou Nie, Yijiang Li, Yiming Huang, Jialian Wu, Jiang Liu, Ximeng Sun, Zhenfei Yin, Lun Wang, Zicheng Liu, et al. arXiv 2026/02.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T05:22:10Z",
+            "owner": "ucsb-mlsec",
+            "repo": "terminal-bench-env",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression.Jincheng Ren, Siwei Wu, Yizhi Li, Kang Zhu, Shu Xu, Boyu Feng, Ruibin Yuan, Wei Zhang, Riza Batista-Navarro, Jian Yang, et al. arXiv 2026/04.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-23T17:44:59Z",
+            "owner": "multimodal-art-projection",
+            "repo": "TACO",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks.Zhaoyang Chu, Jiarui Hu, Xingyu Jiang, Pengyu Zou, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, et al. arXiv 2026/05.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-31T15:26:52Z",
+            "owner": "EuniAI",
+            "repo": "TerminalWorld",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories.Ivan Bercovich, Ivgeni Segal, Kexun Zhang, Shashwat Saxena, Aditi Raghunathan, Ziqian Zhong. arXiv 2026/04.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T21:44:01Z",
+            "owner": "few-sh",
+            "repo": "terminal-wrench",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments.Siwei Wu, Yizhi Li, Yuyang Song, Wei Zhang, Yang Wang, Riza Batista-Navarro, Xian Yang, Mingjie Tang, Bryan Dai, Jian Yang, et al. arXiv 2026/02.",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "🖥️ Terminals & Operating Systems"
+    },
+    {
+      "description": "… plus 9 earlier paper(s): see the full list.",
+      "items": [],
+      "title": "🤖 The Physical World"
+    },
+    {
+      "description": "… plus 3 earlier paper(s): see the full list.",
+      "items": [],
+      "title": "🧭 Browsers & the Web"
+    },
+    {
+      "description": "We are a young team fascinated by where code agents are headed, and we love trading ideas with the community. The field moves fast: since 2023 it has grown from autocompletion and single-function synthesis into agents that use code both to build the digital world and to act in the real one, drawing software engineering, machine learning, and every domain code touches into a single fast-moving frontier.",
+      "items": [],
+      "title": "🗺️ Research Landscape"
+    },
+    {
+      "description": "Code is becoming the universal medium of intelligent action. Our north star is general-purpose agents for which writing code is how they both build the digital world (software, and beyond it: web, databases, systems, hardware, games, graphics, and 3D/CAD) and act in the real world (terminals, browsers, applications, game worlds, the physical world, and scientific discovery). Not agents that merely finish a coding task, but agents that wield code as the language of creation and of agency, to understand, construct, and reshape the worlds we live and work in.",
+      "items": [],
+      "title": "🌟 Vision"
+    },
+    {
+      "description": "Contributing a paper takes one step: drop its arXiv abstract link in the paper inbox (issue #4).\nThat is all. A pipeline takes it from there: it fetches the metadata, classifies the paper into the right category, and queues it for a quick maintainer review before it appears in the list. No pull request, no template, no manual formatting. The list (categories, ordering, badges) is fully generated, so please do not edit the tables by hand: hand edits are overwritten on the next render.\nYou can drop several links in one comment, and anything on topic is welcome: a new paper, a technical report, or one we have missed. Suggestions for venues we should track are welcome too.\nWe're grateful to everyone who suggests papers and helps shape this collection.\nQuestions or problems? Open an issue and we will help.",
+      "items": [],
+      "title": "🤝 Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🌟 Star History"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T18:09:14.838Z",
+    "original_repository": "EuniAI/awesome-code-agents",
+    "original_repository_sha": "68fb7ce8b90757b71307055f4518d3e79da02176",
+    "enhanced_repository": "enhansome/enhansome-code-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome Code Agents with stars"
+  }
+}
