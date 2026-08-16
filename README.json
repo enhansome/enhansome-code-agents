@@ -91,7 +91,7 @@
             "last_commit": "2026-02-05T11:21:00Z",
             "owner": "bytedance",
             "repo": "trae-agent",
-            "stars": 12022
+            "stars": 12023
           }
         },
         {
@@ -102,7 +102,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-04T16:33:47Z",
+            "last_commit": "2026-08-16T13:46:17Z",
             "owner": "EuniAI",
             "repo": "Prometheus",
             "stars": 1123
@@ -116,10 +116,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T05:20:42Z",
+            "last_commit": "2026-08-16T01:02:26Z",
             "owner": "OpenHands",
             "repo": "software-agent-sdk",
-            "stars": 988
+            "stars": 991
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-05-18T18:59:22Z",
             "owner": "scaleapi",
             "repo": "SWE-bench_Pro-os",
-            "stars": 500
+            "stars": 501
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-01-19T23:29:01Z",
             "owner": "OpenAutoCoder",
             "repo": "live-swe-agent",
-            "stars": 435
+            "stars": 441
           }
         },
         {
@@ -175,7 +175,7 @@
             "last_commit": "2025-09-23T01:32:14Z",
             "owner": "JARVIS-Xs",
             "repo": "SE-Agent",
-            "stars": 284
+            "stars": 285
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-05-22T00:20:03Z",
             "owner": "YxuanAr",
             "repo": "Code-as-Room",
-            "stars": 225
+            "stars": 226
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-10-22T07:49:47Z",
             "owner": "leigest519",
             "repo": "ScreenCoder",
-            "stars": 2929
+            "stars": 2930
           }
         },
         {
@@ -580,7 +580,7 @@
             "last_commit": "2026-08-13T19:06:27Z",
             "owner": "harbor-framework",
             "repo": "terminal-bench",
-            "stars": 498
+            "stars": 499
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2026-03-24T05:22:10Z",
             "owner": "ucsb-mlsec",
             "repo": "terminal-bench-env",
-            "stars": 75
+            "stars": 74
           }
         },
         {
@@ -708,7 +708,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:37:15.738Z",
+    "last_updated": "2026-08-16T17:35:11.952Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_sha": "68fb7ce8b90757b71307055f4518d3e79da02176",
     "enhanced_repository": "enhansome/enhansome-code-agents",
