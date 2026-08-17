@@ -91,7 +91,7 @@
             "last_commit": "2026-02-05T11:21:00Z",
             "owner": "bytedance",
             "repo": "trae-agent",
-            "stars": 12023
+            "stars": 12027
           }
         },
         {
@@ -116,10 +116,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T01:02:26Z",
+            "last_commit": "2026-08-17T17:37:25Z",
             "owner": "OpenHands",
             "repo": "software-agent-sdk",
-            "stars": 991
+            "stars": 998
           }
         },
         {
@@ -147,7 +147,7 @@
             "last_commit": "2026-05-18T18:59:22Z",
             "owner": "scaleapi",
             "repo": "SWE-bench_Pro-os",
-            "stars": 501
+            "stars": 503
           }
         },
         {
@@ -161,7 +161,7 @@
             "last_commit": "2026-01-19T23:29:01Z",
             "owner": "OpenAutoCoder",
             "repo": "live-swe-agent",
-            "stars": 441
+            "stars": 446
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2026-07-17T22:51:17Z",
             "owner": "facebookresearch",
             "repo": "cwm",
-            "stars": 888
+            "stars": 889
           }
         },
         {
@@ -335,7 +335,7 @@
             "last_commit": "2026-05-09T04:22:10Z",
             "owner": "InternLM",
             "repo": "JanusCoder",
-            "stars": 78
+            "stars": 79
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2026-08-11T06:59:39Z",
             "owner": "InternRobotics",
             "repo": "MeshCoder",
-            "stars": 502
+            "stars": 503
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-05-22T00:20:03Z",
             "owner": "YxuanAr",
             "repo": "Code-as-Room",
-            "stars": 226
+            "stars": 227
           }
         },
         {
@@ -499,7 +499,7 @@
             "last_commit": "2025-10-22T07:49:47Z",
             "owner": "leigest519",
             "repo": "ScreenCoder",
-            "stars": 2930
+            "stars": 2932
           }
         },
         {
@@ -577,10 +577,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T19:06:27Z",
+            "last_commit": "2026-08-17T17:37:09Z",
             "owner": "harbor-framework",
             "repo": "terminal-bench",
-            "stars": 499
+            "stars": 505
           }
         },
         {
@@ -650,7 +650,7 @@
             "last_commit": "2026-05-31T15:26:52Z",
             "owner": "EuniAI",
             "repo": "TerminalWorld",
-            "stars": 42
+            "stars": 43
           }
         },
         {
@@ -708,9 +708,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T17:35:11.952Z",
+    "last_updated": "2026-08-17T17:47:26.187Z",
     "original_repository": "EuniAI/awesome-code-agents",
-    "original_repository_sha": "68fb7ce8b90757b71307055f4518d3e79da02176",
+    "original_repository_sha": "83eb3e4849a6762f1f2103d717651fc9a163d09c",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
