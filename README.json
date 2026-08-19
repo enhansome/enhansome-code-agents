@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12036
+                    "stars": 12037
                   }
                 },
                 {
@@ -112,7 +112,7 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-19T09:23:07Z",
+                    "last_commit": "2026-08-19T17:21:47Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
                     "stars": 1008
@@ -618,7 +618,7 @@
                 "last_commit": "2026-08-17T21:07:41Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 515
+                "stars": 516
               }
             },
             {
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:21:03.393Z",
+    "last_updated": "2026-08-19T17:42:37.133Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
     "original_repository_sha": "83eb3e4849a6762f1f2103d717651fc9a163d09c",
