@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12044
+                    "stars": 12045
                   }
                 },
                 {
@@ -100,7 +100,7 @@
                     "last_commit": "2026-08-16T13:46:17Z",
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1124
+                    "stars": 1126
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-20T17:11:12Z",
+                    "last_commit": "2026-08-21T16:31:20Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1008
+                    "stars": 1016
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "last_commit": "2026-07-17T22:51:17Z",
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 889
+                    "stars": 890
                   }
                 },
                 {
@@ -478,7 +478,7 @@
                 "last_commit": "2026-08-18T02:06:20Z",
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 524
+                "stars": 527
               }
             },
             {
@@ -615,10 +615,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:22:40Z",
+                "last_commit": "2026-08-20T22:19:21Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 520
+                "stars": 524
               }
             },
             {
@@ -721,7 +721,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:47:11.154Z",
+    "last_updated": "2026-08-21T17:47:08.498Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
     "original_repository_sha": "83eb3e4849a6762f1f2103d717651fc9a163d09c",
