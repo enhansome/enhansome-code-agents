@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12045
+                    "stars": 12049
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:31:20Z",
+                    "last_commit": "2026-08-22T16:34:55Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1016
+                    "stars": 1018
                   }
                 },
                 {
@@ -530,7 +530,7 @@
                 "last_commit": "2025-10-22T07:49:47Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2933
+                "stars": 2932
               }
             },
             {
@@ -615,10 +615,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-20T22:19:21Z",
+                "last_commit": "2026-08-22T00:44:37Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 524
+                "stars": 527
               }
             },
             {
@@ -721,10 +721,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:47:08.498Z",
+    "last_updated": "2026-08-22T17:37:40.282Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
-    "original_repository_sha": "83eb3e4849a6762f1f2103d717651fc9a163d09c",
+    "original_repository_sha": "e6daddefab9e997ec0e0391dcdcae753862b3316",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
