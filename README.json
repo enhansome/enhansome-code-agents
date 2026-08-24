@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12051
+                    "stars": 12052
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-23T16:43:54Z",
+                    "last_commit": "2026-08-24T13:11:31Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1018
+                    "stars": 1020
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-01-19T23:29:01Z",
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 452
+                    "stars": 454
                   }
                 },
                 {
@@ -190,7 +190,7 @@
                     "last_commit": "2026-04-07T19:27:28Z",
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 257
+                    "stars": 258
                   }
                 },
                 {
@@ -295,7 +295,7 @@
                     "last_commit": "2026-08-10T14:32:50Z",
                     "owner": "agent-lens",
                     "repo": "agent-lens-bench",
-                    "stars": 7
+                    "stars": 8
                   }
                 },
                 {
@@ -458,6 +458,28 @@
               "description": "Detecting and fixing security vulnerabilities in code.\n… plus 4 earlier paper(s): see the full list.",
               "node_type": "group",
               "title": "🔒 Security"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "SWE-QA: Can Language Models Answer Repository-level Code Questions?Weihan Peng, Yuling Shi, Yuhang Wang, Xinyun Zhang, Beijun Shen, Xiaodong Gu. arXiv 2025/09.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1059127684,
+                    "language": "Python",
+                    "last_commit": "2026-08-10T06:44:41Z",
+                    "owner": "peng-weihan",
+                    "repo": "SWE-QA-Bench",
+                    "stars": 57
+                  }
+                }
+              ],
+              "description": "Understanding, documenting, and searching code.\n… plus 5 earlier paper(s): see the full list.",
+              "node_type": "group",
+              "title": "📖 Comprehension & Documentation"
             }
           ],
           "description": "Writing and maintaining general-purpose software.",
@@ -478,7 +500,7 @@
                 "last_commit": "2026-08-18T02:06:20Z",
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 528
+                "stars": 529
               }
             },
             {
@@ -527,10 +549,10 @@
                 "archived": false,
                 "id": 1027643050,
                 "language": "Python",
-                "last_commit": "2025-10-22T07:49:47Z",
+                "last_commit": "2026-08-24T05:23:53Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2934
+                "stars": 2945
               }
             },
             {
@@ -597,6 +619,28 @@
           "description": "Building websites, front-ends, and back-end services.\n… plus 12 earlier paper(s): see the full list.",
           "node_type": "group",
           "title": "🌐 Web Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Towards Reliable Agentic Progressive Text-to-Visualization with Verification Rules.Wenxin Xu, Chen Jason Zhang, Xiaoyong Wei, Haoyang Li, Hwanhee Kim, Yuanfeng Song, Raymond Chi-Wing Wong. arXiv 2026/05.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997825854,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-01-26T08:02:40Z",
+                "owner": "wxxv",
+                "repo": "PMVis",
+                "stars": 0
+              }
+            }
+          ],
+          "description": "Generating vector graphics, animation, and chart code.\n… plus 4 earlier paper(s): see the full list.",
+          "node_type": "group",
+          "title": "🎨 Graphics & Animation"
         }
       ],
       "title": "🧱 Code as Artifact: Building the Digital World"
@@ -604,6 +648,28 @@
     {
       "description": "Agents that use code to act in the world.",
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DeepAnalyze: Agentic Large Language Models for Autonomous Data Science.Shaolei Zhang, Ju Fan, Meihao Fan, Guoliang Li, Xiaoyong Du. arXiv 2025/10.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1074218324,
+                "language": "Python",
+                "last_commit": "2026-07-01T03:12:26Z",
+                "owner": "ruc-datalab",
+                "repo": "DeepAnalyze",
+                "stars": 4558
+              }
+            }
+          ],
+          "description": "Running experiments and analysis to make discoveries.\n… plus 17 earlier paper(s): see the full list.",
+          "node_type": "group",
+          "title": "🔬 Research & Discovery"
+        },
         {
           "children": [
             {
@@ -618,7 +684,7 @@
                 "last_commit": "2026-08-23T01:01:46Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 533
+                "stars": 536
               }
             },
             {
@@ -648,7 +714,7 @@
                 "last_commit": "2026-08-17T21:33:31Z",
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 188
+                "stars": 189
               }
             },
             {
@@ -693,7 +759,7 @@
                 "last_commit": "2026-05-31T15:26:52Z",
                 "owner": "EuniAI",
                 "repo": "TerminalWorld",
-                "stars": 44
+                "stars": 45
               }
             },
             {
@@ -721,10 +787,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:36:26.248Z",
+    "last_updated": "2026-08-24T14:37:10.722Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
-    "original_repository_sha": "28aa94ac4ea54165e530661067b1d9a2a09ad765",
+    "original_repository_sha": "c9d82fd100c861d1e4aefa304e76ac85345cf5d0",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
