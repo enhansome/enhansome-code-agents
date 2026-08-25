@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12053
+                    "stars": 12054
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-25T00:23:26Z",
+                    "last_commit": "2026-08-25T16:23:47Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1021
+                    "stars": 1028
                   }
                 },
                 {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-18T02:06:20Z",
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 529
+                "stars": 530
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-07-01T03:12:26Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4560
+                "stars": 4564
               }
             }
           ],
@@ -684,7 +684,7 @@
                 "last_commit": "2026-08-25T05:41:28Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 538
+                "stars": 539
               }
             },
             {
@@ -714,7 +714,7 @@
                 "last_commit": "2026-08-17T21:33:31Z",
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 189
+                "stars": 190
               }
             },
             {
@@ -787,10 +787,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:09.874Z",
+    "last_updated": "2026-08-25T17:46:45.810Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
-    "original_repository_sha": "c9d82fd100c861d1e4aefa304e76ac85345cf5d0",
+    "original_repository_sha": "56a5a2e8ba5b361af6f39a5557df0d72c257ff9a",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
