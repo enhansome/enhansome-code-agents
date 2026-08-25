@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12052
+                    "stars": 12053
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-24T16:59:50Z",
+                    "last_commit": "2026-08-25T00:23:26Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1020
+                    "stars": 1021
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-05-18T18:59:22Z",
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 508
+                    "stars": 509
                   }
                 },
                 {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-07-01T03:12:26Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4558
+                "stars": 4560
               }
             }
           ],
@@ -681,10 +681,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-23T01:01:46Z",
+                "last_commit": "2026-08-25T05:41:28Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 536
+                "stars": 538
               }
             },
             {
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:48:00.664Z",
+    "last_updated": "2026-08-25T06:29:09.874Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
     "original_repository_sha": "c9d82fd100c861d1e4aefa304e76ac85345cf5d0",
