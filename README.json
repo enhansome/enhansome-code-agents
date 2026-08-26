@@ -30,7 +30,7 @@
             "last_commit": "2025-11-24T16:22:11Z",
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 82
+            "stars": 83
           }
         },
         {
@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12054
+                    "stars": 12058
                   }
                 },
                 {
@@ -100,7 +100,7 @@
                     "last_commit": "2026-08-16T13:46:17Z",
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1126
+                    "stars": 1127
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-25T16:23:47Z",
+                    "last_commit": "2026-08-26T15:03:59Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1028
+                    "stars": 1031
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-05-18T18:59:22Z",
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 509
+                    "stars": 510
                   }
                 },
                 {
@@ -175,7 +175,7 @@
                     "last_commit": "2025-09-23T01:32:14Z",
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
-                    "stars": 286
+                    "stars": 287
                   }
                 },
                 {
@@ -500,7 +500,7 @@
                 "last_commit": "2026-08-18T02:06:20Z",
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 530
+                "stars": 531
               }
             },
             {
@@ -515,7 +515,7 @@
                 "last_commit": "2026-05-22T00:20:03Z",
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 227
+                "stars": 228
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-24T05:23:53Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2945
+                "stars": 2950
               }
             },
             {
@@ -659,10 +659,10 @@
                 "archived": false,
                 "id": 1074218324,
                 "language": "Python",
-                "last_commit": "2026-07-01T03:12:26Z",
+                "last_commit": "2026-08-26T14:01:40Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4564
+                "stars": 4565
               }
             }
           ],
@@ -681,10 +681,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-25T05:41:28Z",
+                "last_commit": "2026-08-26T18:14:43Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 539
+                "stars": 548
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2026-04-18T21:44:01Z",
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 37
+                "stars": 38
               }
             }
           ],
@@ -787,10 +787,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:46:45.810Z",
+    "last_updated": "2026-08-26T19:19:40.311Z",
     "original_repository": "EuniAI/awesome-code-agents",
     "original_repository_id": 1070840924,
-    "original_repository_sha": "56a5a2e8ba5b361af6f39a5557df0d72c257ff9a",
+    "original_repository_sha": "d5c277baa27349514a25be7ba1db7eabf926abcb",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
