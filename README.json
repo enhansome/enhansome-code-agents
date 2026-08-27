@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12058
+                    "stars": 12059
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-26T15:03:59Z",
+                    "last_commit": "2026-08-27T10:52:39Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1031
+                    "stars": 1033
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-05-18T18:59:22Z",
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 510
+                    "stars": 511
                   }
                 },
                 {
@@ -332,7 +332,7 @@
                     "last_commit": "2026-07-17T22:51:17Z",
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 890
+                    "stars": 894
                   }
                 },
                 {
@@ -515,7 +515,7 @@
                 "last_commit": "2026-05-22T00:20:03Z",
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 228
+                "stars": 229
               }
             },
             {
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-24T05:23:53Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2950
+                "stars": 2951
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-08-26T14:01:40Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4565
+                "stars": 4566
               }
             }
           ],
@@ -681,10 +681,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-26T18:14:43Z",
+                "last_commit": "2026-08-27T04:29:34Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 548
+                "stars": 552
               }
             },
             {
@@ -774,7 +774,7 @@
                 "last_commit": "2026-04-18T21:44:01Z",
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 38
+                "stars": 39
               }
             }
           ],
@@ -787,9 +787,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T19:19:40.311Z",
-    "original_repository": "EuniAI/awesome-code-agents",
-    "original_repository_id": 1070840924,
+    "last_updated": "2026-08-27T11:29:21.657Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 1070840924,
+      "language": "Python",
+      "last_commit": "2026-08-26T08:09:32Z",
+      "owner": "EuniAI",
+      "repo": "awesome-code-agents",
+      "stars": 127
+    },
     "original_repository_sha": "d5c277baa27349514a25be7ba1db7eabf926abcb",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
