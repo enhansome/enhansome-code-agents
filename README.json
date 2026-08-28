@@ -15,7 +15,7 @@
             "last_commit": "2025-10-29T09:43:37Z",
             "owner": "YuyaoGe",
             "repo": "Awesome-Vibe-Coding",
-            "stars": 122
+            "stars": 121
           }
         },
         {
@@ -85,7 +85,7 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12059
+                    "stars": 12058
                   }
                 },
                 {
@@ -112,10 +112,10 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:52:39Z",
+                    "last_commit": "2026-08-27T21:19:33Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1033
+                    "stars": 1037
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-01-19T23:29:01Z",
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 454
+                    "stars": 455
                   }
                 },
                 {
@@ -552,7 +552,7 @@
                 "last_commit": "2026-08-24T05:23:53Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2951
+                "stars": 2953
               }
             },
             {
@@ -662,7 +662,7 @@
                 "last_commit": "2026-08-26T14:01:40Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4566
+                "stars": 4567
               }
             }
           ],
@@ -681,10 +681,10 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:29:34Z",
+                "last_commit": "2026-08-27T14:29:12Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 552
+                "stars": 553
               }
             },
             {
@@ -787,17 +787,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:21.657Z",
+    "last_updated": "2026-08-28T01:30:11.366Z",
     "original_repository_info": {
       "archived": false,
       "id": 1070840924,
       "language": "Python",
-      "last_commit": "2026-08-26T08:09:32Z",
+      "last_commit": "2026-08-27T18:03:32Z",
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
       "stars": 127
     },
-    "original_repository_sha": "d5c277baa27349514a25be7ba1db7eabf926abcb",
+    "original_repository_sha": "5608c477989323fc632e4c63136399011b609c9d",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
