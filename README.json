@@ -16,7 +16,8 @@
             "owner": "YuyaoGe",
             "repo": "Awesome-Vibe-Coding",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T00:58:54.181Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T00:58:54.181Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "JiaruQian",
             "repo": "awesome-llm-based-agent4code",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T00:58:54.181Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "lisaGuojl",
             "repo": "LLM-Agent-SE-Survey",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T00:58:54.181Z"
         }
       ],
       "title": "📊 Surveys & Empirical Studies"
@@ -85,8 +89,9 @@
                     "last_commit": "2026-02-05T11:21:00Z",
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12058
-                  }
+                    "stars": 12059
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -101,7 +106,8 @@
                     "owner": "EuniAI",
                     "repo": "Prometheus",
                     "stars": 1127
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -112,11 +118,12 @@
                     "archived": false,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-27T21:19:33Z",
+                    "last_commit": "2026-08-29T00:48:58Z",
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1037
-                  }
+                    "stars": 1041
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -131,7 +138,8 @@
                     "owner": "microsoft",
                     "repo": "prose",
                     "stars": 660
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -146,7 +154,8 @@
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 511
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -161,7 +170,8 @@
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
                     "stars": 455
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -176,7 +186,8 @@
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
                     "stars": 287
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -191,7 +202,8 @@
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
                     "stars": 258
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -206,7 +218,8 @@
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
                     "stars": 73
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -221,7 +234,8 @@
                     "owner": "cslsolow",
                     "repo": "SWE-Exp",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -236,7 +250,8 @@
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -251,7 +266,8 @@
                     "owner": "YerbaPage",
                     "repo": "SWE-Debate",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -266,7 +282,8 @@
                     "owner": "MERA-Evaluation",
                     "repo": "repotest",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -281,7 +298,8 @@
                     "owner": "Centre-for-Software-Excellence",
                     "repo": "SWE-Effi",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -296,7 +314,8 @@
                     "owner": "agent-lens",
                     "repo": "agent-lens-bench",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -311,7 +330,8 @@
                     "owner": "kitsiosk",
                     "repo": "blast",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 }
               ],
               "description": "Reproducing, locating, and fixing reported bugs.\n… plus 86 earlier paper(s): see the full list.",
@@ -333,7 +353,8 @@
                     "owner": "facebookresearch",
                     "repo": "cwm",
                     "stars": 894
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -348,7 +369,8 @@
                     "owner": "InternLM",
                     "repo": "JanusCoder",
                     "stars": 79
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -362,8 +384,9 @@
                     "last_commit": "2025-09-14T14:22:16Z",
                     "owner": "lurf21",
                     "repo": "NextEditPrediction",
-                    "stars": 16
-                  }
+                    "stars": 17
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -378,7 +401,8 @@
                     "owner": "whisperzqh",
                     "repo": "ProjectGen",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 }
               ],
               "description": "Generating and completing code, from a function to a whole repository.\n… plus 39 earlier paper(s): see the full list.",
@@ -400,7 +424,8 @@
                     "owner": "QuantaAlpha",
                     "repo": "EvoControl",
                     "stars": 131
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -415,7 +440,8 @@
                     "owner": "SWE-Perf",
                     "repo": "SWE-Perf",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 }
               ],
               "description": "Refactoring, migrating, and optimizing existing code.\n… plus 4 earlier paper(s): see the full list.",
@@ -437,7 +463,8 @@
                     "owner": "Infini-AI-Lab",
                     "repo": "FCV",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 },
                 {
                   "node_type": "item",
@@ -452,7 +479,8 @@
                     "owner": "iCSawyer",
                     "repo": "SecureAgentBench",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 }
               ],
               "description": "Detecting and fixing security vulnerabilities in code.\n… plus 4 earlier paper(s): see the full list.",
@@ -474,7 +502,8 @@
                     "owner": "peng-weihan",
                     "repo": "SWE-QA-Bench",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
                 }
               ],
               "description": "Understanding, documenting, and searching code.\n… plus 5 earlier paper(s): see the full list.",
@@ -500,8 +529,9 @@
                 "last_commit": "2026-08-18T02:06:20Z",
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 531
-              }
+                "stars": 532
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -516,7 +546,8 @@
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -531,7 +562,8 @@
                 "owner": "Godheritage",
                 "repo": "BesiegeField",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Generating 3D models and CAD programs.\n… plus 16 earlier paper(s): see the full list.",
@@ -552,8 +584,9 @@
                 "last_commit": "2026-08-24T05:23:53Z",
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2953
-              }
+                "stars": 2954
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -568,7 +601,8 @@
                 "owner": "WebPAI",
                 "repo": "EfficientUICoder",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -583,7 +617,8 @@
                 "owner": "mnluzimu",
                 "repo": "WebGen-Agent",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -598,7 +633,8 @@
                 "owner": "yxwan123",
                 "repo": "TDDev",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -613,7 +649,8 @@
                 "owner": "open-compass",
                 "repo": "InteractScience",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Building websites, front-ends, and back-end services.\n… plus 12 earlier paper(s): see the full list.",
@@ -635,7 +672,8 @@
                 "owner": "wxxv",
                 "repo": "PMVis",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Generating vector graphics, animation, and chart code.\n… plus 4 earlier paper(s): see the full list.",
@@ -659,11 +697,12 @@
                 "archived": false,
                 "id": 1074218324,
                 "language": "Python",
-                "last_commit": "2026-08-26T14:01:40Z",
+                "last_commit": "2026-08-28T08:53:27Z",
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4567
-              }
+                "stars": 4569
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Running experiments and analysis to make discoveries.\n… plus 17 earlier paper(s): see the full list.",
@@ -681,11 +720,12 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:29:12Z",
+                "last_commit": "2026-08-28T19:07:43Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 553
-              }
+                "stars": 556
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -700,7 +740,8 @@
                 "owner": "QuantaAlpha",
                 "repo": "GitTaskBench",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -715,7 +756,8 @@
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
                 "stars": 190
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -730,7 +772,8 @@
                 "owner": "ucsb-mlsec",
                 "repo": "terminal-bench-env",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -745,7 +788,8 @@
                 "owner": "multimodal-art-projection",
                 "repo": "TACO",
                 "stars": 47
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -760,7 +804,8 @@
                 "owner": "EuniAI",
                 "repo": "TerminalWorld",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             },
             {
               "node_type": "item",
@@ -775,7 +820,8 @@
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Completing tasks in terminals and operating systems.\n… plus 6 earlier paper(s): see the full list.",
@@ -787,17 +833,17 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:30:11.366Z",
+    "last_updated": "2026-08-29T00:58:54.181Z",
     "original_repository_info": {
       "archived": false,
       "id": 1070840924,
       "language": "Python",
-      "last_commit": "2026-08-27T18:03:32Z",
+      "last_commit": "2026-08-28T18:58:52Z",
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
       "stars": 127
     },
-    "original_repository_sha": "5608c477989323fc632e4c63136399011b609c9d",
+    "original_repository_sha": "2f2da9ce9ff9434ef8ccc2b96a96272afadd8603",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
