@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1074036252,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-29T09:43:37Z",
+            "open_issues": 6,
             "owner": "YuyaoGe",
             "repo": "Awesome-Vibe-Coding",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replication package for \"The Rise of AI Teammates in Software Engineering (SE) 3.0: How Autonomous Coding Agents Are Reshaping SE\"",
+            "homepage": null,
             "id": 1022804719,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2025-11-24T16:22:11Z",
+            "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1025445334,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-04-12T01:58:02Z",
+            "open_issues": 1,
             "owner": "JiaruQian",
             "repo": "awesome-llm-based-agent4code",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official GitHub page for the survey paper \"A Comprehensive Survey on Benchmarks and Solutions in Software Engineering of LLM-Empowered Agentic System\".",
+            "homepage": null,
             "id": 1072941102,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-23T05:18:53Z",
+            "open_issues": 0,
             "owner": "lisaGuojl",
             "repo": "LLM-Agent-SE-Survey",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
         }
@@ -84,12 +104,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Trae Agent is an LLM-based agent for general purpose software engineering tasks.",
+                    "homepage": "https://www.trae.ai/",
                     "id": 1001452682,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
+                    "open_issues": 159,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12059
+                    "stars": 12059,
+                    "topics": [
+                      "agent",
+                      "llm",
+                      "software-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -100,12 +129,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🧠 Prometheus: A Knowledge-Graph-Driven 🤖 AI Agent that maps 🗺, understands 🧩, and repairs 🛠 complex codebases — not by guessing, but by reasoning. ⚡",
+                    "homepage": null,
                     "id": 872493611,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-16T13:46:17Z",
+                    "open_issues": 9,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1127
+                    "stars": 1127,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -116,12 +150,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A clean, modular SDK for building AI agents with OpenHands V1.",
+                    "homepage": null,
                     "id": 1043426082,
                     "language": "Python",
-                    "last_commit": "2026-08-29T00:48:58Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:17:23Z",
+                    "open_issues": 401,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1041
+                    "stars": 1041,
+                    "topics": [
+                      "agent",
+                      "sdk"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -132,12 +174,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.",
+                    "homepage": "https://microsoft.github.io/prose/",
                     "id": 44644898,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-11-19T21:02:37Z",
+                    "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "prose",
-                    "stars": 660
+                    "stars": 660,
+                    "topics": [
+                      "csharp",
+                      "data-transformation",
+                      "data-wrangling",
+                      "dotnet",
+                      "examples",
+                      "microsoft",
+                      "program-synthesis",
+                      "prose",
+                      "sdk",
+                      "synthesis"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -148,12 +206,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering Tasks?",
+                    "homepage": null,
                     "id": 1051347649,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-05-18T18:59:22Z",
+                    "open_issues": 39,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 511
+                    "stars": 511,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -164,12 +227,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Live-SWE-agent: live, runtime self-evolving software engineering agent",
+                    "homepage": null,
                     "id": 1096088239,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-01-19T23:29:01Z",
+                    "open_issues": 8,
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 455
+                    "stars": 455,
+                    "topics": [
+                      "agent",
+                      "llm",
+                      "self-evolving",
+                      "software-development"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -180,12 +253,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SE-Agent is a self-evolution framework for LLM Code agents. It enables trajectory-level evolution to exchange information across reasoning paths via Revision, Recombination, and Refinement, expanding the search space and escaping local optima. On SWE-bench Verified, it achieves SOTA performance",
+                    "homepage": "https://quantaalpha.com",
                     "id": 1017976886,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-09-23T01:32:14Z",
+                    "open_issues": 5,
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
-                    "stars": 287
+                    "stars": 287,
+                    "topics": [
+                      "claude-code",
+                      "code-agent",
+                      "code-fix",
+                      "mcts",
+                      "self-evolve",
+                      "swe-agent",
+                      "swe-bench",
+                      "test-time-scaling"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -196,12 +283,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 957708415,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-04-07T19:27:28Z",
+                    "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 258
+                    "stars": 258,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -212,12 +304,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving",
+                    "homepage": "https://swe-lego.github.io/",
                     "id": 1125025983,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-28T09:11:58Z",
+                    "open_issues": 2,
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
-                    "stars": 73
+                    "stars": 73,
+                    "topics": [
+                      "agents",
+                      "language-model",
+                      "software-engineering",
+                      "supervised-finetuning"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -228,12 +330,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SWE-Exp: Experience-Driven Software Issue Resolution",
+                    "homepage": null,
                     "id": 1022515258,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-10-17T02:39:08Z",
+                    "open_issues": 0,
                     "owner": "cslsolow",
                     "repo": "SWE-Exp",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "code-generation",
+                      "language-model",
+                      "large-language-models",
+                      "software-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -244,12 +356,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code generation tool based on large language models and command line   ",
+                    "homepage": null,
                     "id": 1037873513,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-06T12:20:57Z",
+                    "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -260,12 +377,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SWE-Debate: Competitive Multi-Agent Debate for Software Issue Resolution [ICSE 2026]",
+                    "homepage": null,
                     "id": 1022510312,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-11T08:19:37Z",
+                    "open_issues": 0,
                     "owner": "YerbaPage",
                     "repo": "SWE-Debate",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "code-generation",
+                      "large-language-models",
+                      "llm",
+                      "software-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -276,12 +403,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1013750223,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-13T02:48:31Z",
+                    "open_issues": 0,
                     "owner": "MERA-Evaluation",
                     "repo": "repotest",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -292,12 +424,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://centre-for-software-excellence.github.io/SWE-Effi/",
                     "id": 1023812973,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-20T14:40:44Z",
+                    "open_issues": 1,
                     "owner": "Centre-for-Software-Excellence",
                     "repo": "SWE-Effi",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -308,12 +445,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Diagnosing and comparing coding agents, detecting product regressions",
+                    "homepage": "https://agent-lens.github.io/agent-lens-bench/",
                     "id": 1258184318,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-10T14:32:50Z",
+                    "open_issues": 0,
                     "owner": "agent-lens",
                     "repo": "agent-lens-bench",
-                    "stars": 8
+                    "stars": 8,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -324,12 +466,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing",
+                    "homepage": null,
                     "id": 1044527513,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-10-07T21:53:05Z",
+                    "open_issues": 0,
                     "owner": "kitsiosk",
                     "repo": "blast",
-                    "stars": 5
+                    "stars": 5,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 }
@@ -347,12 +494,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Research code artifacts for Code World Model (CWM) including inference tools, reproducibility, and documentation.",
+                    "homepage": null,
                     "id": 1048975047,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-17T22:51:17Z",
+                    "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 894
+                    "stars": 894,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -363,12 +515,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2026] JanusCoder: Towards a Foundational Visual-Programmatic Interface for Code Intelligence",
+                    "homepage": null,
                     "id": 1079868814,
                     "language": "Jupyter Notebook",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-05-09T04:22:10Z",
+                    "open_issues": 1,
                     "owner": "InternLM",
                     "repo": "JanusCoder",
-                    "stars": 79
+                    "stars": 79,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -379,12 +536,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Next Edit Prediction: Learning to Predict Code Edits from Context and Interaction History",
+                    "homepage": "https://arxiv.org/abs/2508.10074",
                     "id": 1056597687,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-09-14T14:22:16Z",
+                    "open_issues": 0,
                     "owner": "lurf21",
                     "repo": "NextEditPrediction",
-                    "stars": 17
+                    "stars": 17,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -395,12 +557,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1087637411,
                     "language": "C",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-01T12:07:03Z",
+                    "open_issues": 0,
                     "owner": "whisperzqh",
                     "repo": "ProjectGen",
-                    "stars": 15
+                    "stars": 15,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 }
@@ -418,12 +585,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official implementation of Controlled Self-Evolution for Algorithmic Code Optimization",
+                    "homepage": null,
                     "id": 1130425250,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-25T14:07:36Z",
+                    "open_issues": 0,
                     "owner": "QuantaAlpha",
                     "repo": "EvoControl",
-                    "stars": 131
+                    "stars": 131,
+                    "topics": [
+                      "alphaevolve",
+                      "code-agent",
+                      "code-efficiency",
+                      "self-evolution"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -434,12 +611,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1017724650,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-10-28T18:15:12Z",
+                    "open_issues": 4,
                     "owner": "SWE-Perf",
                     "repo": "SWE-Perf",
-                    "stars": 53
+                    "stars": 53,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 }
@@ -457,12 +639,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ACL'26 Main] When \"Correct\" Is Not Safe: Can We Trust Functionally Correct Patches Generated by Code Agents?",
+                    "homepage": null,
                     "id": 1072681079,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-04T01:29:43Z",
+                    "open_issues": 0,
                     "owner": "Infini-AI-Lab",
                     "repo": "FCV",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -473,12 +660,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 1064577480,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-04-12T11:30:28Z",
+                    "open_issues": 0,
                     "owner": "iCSawyer",
                     "repo": "SecureAgentBench",
-                    "stars": 2
+                    "stars": 2,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 }
@@ -496,12 +688,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 1059127684,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-10T06:44:41Z",
+                    "open_issues": 2,
                     "owner": "peng-weihan",
                     "repo": "SWE-QA-Bench",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 }
@@ -524,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1032238836,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-18T02:06:20Z",
+                "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 532
+                "stars": 532,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -540,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MLLM-based agentic system converts a single room image into executable Blender code for 3D room reconstruction.",
+                "homepage": null,
                 "id": 1243146433,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-22T00:20:03Z",
+                "open_issues": 2,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -556,12 +763,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repo of BesiegeField, an interactive and real-time environment for machine construction and simulation (arXiv:2510.14980).",
+                "homepage": null,
                 "id": 1078014837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-09T06:17:30Z",
+                "open_issues": 0,
                 "owner": "Godheritage",
                 "repo": "BesiegeField",
-                "stars": 63
+                "stars": 63,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             }
@@ -579,12 +791,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ScreenCoder — Turn any UI screenshot into clean, editable HTML/CSS with full control. Fast, accurate, and easy to customize.",
+                "homepage": null,
                 "id": 1027643050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T05:23:53Z",
+                "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2954
+                "stars": 2954,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -595,12 +812,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FSE 2026] EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression",
+                "homepage": null,
                 "id": 1057625195,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-05-05T04:14:39Z",
+                "open_issues": 0,
                 "owner": "WebPAI",
                 "repo": "EfficientUICoder",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "ai4se",
+                  "efficient-inference",
+                  "mllm",
+                  "token-compression",
+                  "ui2code"
+                ]
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -611,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1047795116,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-07-10T05:35:11Z",
+                "open_issues": 0,
                 "owner": "mnluzimu",
                 "repo": "WebGen-Agent",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -627,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generating Full-Stack Web Applications from Requirements Via Multi-Agent Test-Driven Development",
+                "homepage": null,
                 "id": 1055966544,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2025-10-21T06:30:01Z",
+                "open_issues": 1,
                 "owner": "yxwan123",
                 "repo": "TDDev",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -643,12 +881,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1066136745,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-31T03:19:07Z",
+                "open_issues": 0,
                 "owner": "open-compass",
                 "repo": "InteractScience",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             }
@@ -666,12 +909,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 997825854,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-01-26T08:02:40Z",
+                "open_issues": 1,
                 "owner": "wxxv",
                 "repo": "PMVis",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             }
@@ -695,12 +943,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+                "homepage": "https://ruc-deepanalyze.github.io",
                 "id": 1074218324,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T08:53:27Z",
+                "open_issues": 23,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4569
+                "stars": 4569,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "agentic-ai",
+                  "ai",
+                  "ai-scientist",
+                  "chatbot",
+                  "data",
+                  "data-analysis",
+                  "data-engineering",
+                  "data-science",
+                  "data-visualization",
+                  "database",
+                  "deep-research",
+                  "jupyter",
+                  "llm",
+                  "open-source",
+                  "python",
+                  "python-programming",
+                  "qwen",
+                  "science"
+                ]
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             }
@@ -718,12 +992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Measuring and evolving with the frontier of agent work",
+                "homepage": "https://tbench.ai",
                 "id": 1141514919,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:07:43Z",
+                "open_issues": 221,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 556
+                "stars": 556,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -734,12 +1013,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repo-level benchmark for real-world Code Agents: from repo understanding → env setup → incremental dev/bug-fixing → task delivery, with cost-aware α metric.",
+                "homepage": "https://quantaalpha.github.io",
                 "id": 1039484080,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-09-22T14:34:08Z",
+                "open_issues": 1,
                 "owner": "QuantaAlpha",
                 "repo": "GitTaskBench",
-                "stars": 257
+                "stars": 257,
+                "topics": [
+                  "claude-code",
+                  "code-agent",
+                  "code-llm",
+                  "openhands",
+                  "repo-level",
+                  "repomaster",
+                  "swe-agent"
+                ]
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -750,12 +1042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 815874227,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-17T21:33:31Z",
+                "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 190
+                "stars": 190,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -766,12 +1063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1151816559,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-03-24T05:22:10Z",
+                "open_issues": 5,
                 "owner": "ucsb-mlsec",
                 "repo": "terminal-bench-env",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -782,12 +1084,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the repo for the paper A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
+                "homepage": null,
                 "id": 1216904708,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-23T17:44:59Z",
+                "open_issues": 0,
                 "owner": "multimodal-art-projection",
                 "repo": "TACO",
-                "stars": 47
+                "stars": 47,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -798,12 +1105,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Benchmarking Agents on Real-World Terminal Tasks",
+                "homepage": "https://terminalworld.ai/",
                 "id": 1231907165,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-31T15:26:52Z",
+                "open_issues": 0,
                 "owner": "EuniAI",
                 "repo": "TerminalWorld",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "agent",
+                  "benchmark",
+                  "cli",
+                  "dataset",
+                  "evaluation",
+                  "llm",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -814,12 +1134,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dataset of hackable TerminalBench-style tasks and exploit trajectories",
+                "homepage": null,
                 "id": 1205361325,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-18T21:44:01Z",
+                "open_issues": 1,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             }
@@ -833,15 +1158,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:58:54.181Z",
+    "last_updated": "2026-08-29T05:00:08.634Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
+      "homepage": "https://euniai.github.io/awesome-code-agents/",
       "id": 1070840924,
       "language": "Python",
+      "license": "Apache-2.0",
       "last_commit": "2026-08-28T18:58:52Z",
+      "open_issues": 70,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 127
+      "stars": 127,
+      "topics": [
+        "ai-agents",
+        "awesome-code-agents",
+        "awesome-list",
+        "code-agents",
+        "large-language-models",
+        "llm",
+        "software-engineering"
+      ]
     },
     "original_repository_sha": "2f2da9ce9ff9434ef8ccc2b96a96272afadd8603",
     "enhanced_repository": "enhansome/enhansome-code-agents",
