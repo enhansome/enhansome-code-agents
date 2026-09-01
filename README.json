@@ -155,11 +155,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-08-31T17:46:54Z",
-                    "open_issues": 462,
+                    "last_commit": "2026-09-01T15:38:05Z",
+                    "open_issues": 459,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1044,
+                    "stars": 1048,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 39,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 513,
+                    "stars": 514,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -292,7 +292,7 @@
                     "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 258,
+                    "stars": 259,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
-                    "stars": 73,
+                    "stars": 74,
                     "topics": [
                       "agents",
                       "language-model",
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 532,
+                "stars": 533,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -751,7 +751,7 @@
                 "open_issues": 2,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 229,
+                "stars": 230,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2970,
+                "stars": 2973,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -949,10 +949,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-30T08:07:06Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4578,
+                "stars": 4585,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T00:48:40Z",
-                "open_issues": 230,
+                "last_commit": "2026-09-01T04:59:34Z",
+                "open_issues": 234,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 575,
+                "stars": 583,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T21:54:35.437Z",
+    "last_updated": "2026-09-01T19:56:43.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1170,7 +1170,7 @@
       "open_issues": 70,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 127,
+      "stars": 128,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
