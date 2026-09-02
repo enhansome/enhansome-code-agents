@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 83,
+            "stars": 84,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
@@ -155,11 +155,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-01T15:38:05Z",
-                    "open_issues": 459,
+                    "last_commit": "2026-09-02T19:30:40Z",
+                    "open_issues": 470,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1048,
+                    "stars": 1051,
                     "topics": [
                       "agent",
                       "sdk"
@@ -183,7 +183,7 @@
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "prose",
-                    "stars": 660,
+                    "stars": 661,
                     "topics": [
                       "csharp",
                       "data-transformation",
@@ -215,7 +215,7 @@
                     "open_issues": 39,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 514,
+                    "stars": 518,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -236,7 +236,7 @@
                     "open_issues": 8,
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 456,
+                    "stars": 455,
                     "topics": [
                       "agent",
                       "llm",
@@ -292,7 +292,7 @@
                     "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 259,
+                    "stars": 258,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -450,7 +450,7 @@
                     "id": 1258184318,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-08-10T14:32:50Z",
+                    "last_commit": "2026-09-02T06:48:31Z",
                     "open_issues": 0,
                     "owner": "agent-lens",
                     "repo": "agent-lens-bench",
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 899,
+                    "stars": 900,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2973,
+                "stars": 2972,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 24,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4585,
+                "stars": 4589,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T04:59:34Z",
-                "open_issues": 234,
+                "last_commit": "2026-09-01T23:36:56Z",
+                "open_issues": 241,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 583,
+                "stars": 597,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T19:56:43.028Z",
+    "last_updated": "2026-09-02T19:48:38.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
