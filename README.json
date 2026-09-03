@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 84,
+            "stars": 83,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
@@ -113,7 +113,7 @@
                     "open_issues": 159,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12064,
+                    "stars": 12065,
                     "topics": [
                       "agent",
                       "llm",
@@ -138,7 +138,7 @@
                     "open_issues": 9,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1126,
+                    "stars": 1127,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -155,11 +155,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-02T19:30:40Z",
-                    "open_issues": 470,
+                    "last_commit": "2026-09-03T19:43:22Z",
+                    "open_issues": 472,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1051,
+                    "stars": 1053,
                     "topics": [
                       "agent",
                       "sdk"
@@ -339,7 +339,7 @@
                     "open_issues": 0,
                     "owner": "cslsolow",
                     "repo": "SWE-Exp",
-                    "stars": 45,
+                    "stars": 46,
                     "topics": [
                       "code-generation",
                       "language-model",
@@ -365,7 +365,7 @@
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -454,7 +454,7 @@
                     "open_issues": 0,
                     "owner": "agent-lens",
                     "repo": "agent-lens-bench",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -697,7 +697,7 @@
                     "open_issues": 2,
                     "owner": "peng-weihan",
                     "repo": "SWE-QA-Bench",
-                    "stars": 57,
+                    "stars": 58,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2972,
+                "stars": 2976,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 24,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4589,
+                "stars": 4591,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T23:36:56Z",
-                "open_issues": 241,
+                "last_commit": "2026-09-03T03:35:37Z",
+                "open_issues": 251,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 597,
+                "stars": 607,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:48:38.276Z",
+    "last_updated": "2026-09-03T19:51:47.139Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
