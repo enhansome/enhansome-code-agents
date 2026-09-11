@@ -113,7 +113,7 @@
                     "open_issues": 163,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12085,
+                    "stars": 12087,
                     "topics": [
                       "agent",
                       "llm",
@@ -155,11 +155,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-10T18:27:40Z",
-                    "open_issues": 488,
+                    "last_commit": "2026-09-11T16:46:51Z",
+                    "open_issues": 493,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1082,
+                    "stars": 1091,
                     "topics": [
                       "agent",
                       "sdk"
@@ -262,7 +262,7 @@
                     "open_issues": 5,
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
-                    "stars": 287,
+                    "stars": 286,
                     "topics": [
                       "claude-code",
                       "code-agent",
@@ -386,7 +386,7 @@
                     "open_issues": 0,
                     "owner": "YerbaPage",
                     "repo": "SWE-Debate",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "code-generation",
                       "large-language-models",
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 902,
+                    "stars": 903,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2984,
+                "stars": 2986,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -948,7 +948,7 @@
                 "id": 1074218324,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T08:07:06Z",
+                "last_commit": "2026-09-11T11:38:06Z",
                 "open_issues": 25,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
@@ -998,10 +998,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-03T03:35:37Z",
-                "open_issues": 271,
+                "open_issues": 281,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 663,
+                "stars": 670,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1079,6 +1079,35 @@
             },
             {
               "node_type": "item",
+              "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks.Zhaoyang Chu, Jiarui Hu, Xingyu Jiang, Pengyu Zou, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, et al. arXiv 2026/05.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Benchmarking Agents on Real-World Terminal Tasks",
+                "homepage": "https://terminalworld.ai/",
+                "id": 1231907165,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-05-31T15:26:52Z",
+                "open_issues": 0,
+                "owner": "EuniAI",
+                "repo": "TerminalWorld",
+                "stars": 47,
+                "topics": [
+                  "agent",
+                  "benchmark",
+                  "cli",
+                  "dataset",
+                  "evaluation",
+                  "llm",
+                  "terminal"
+                ]
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
+            },
+            {
+              "node_type": "item",
               "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression.Jincheng Ren, Siwei Wu, Yizhi Li, Kang Zhu, Shu Xu, Boyu Feng, Ruibin Yuan, Wei Zhang, Riza Batista-Navarro, Jian Yang, et al. arXiv 2026/04.",
               "description": null,
               "children": [],
@@ -1095,35 +1124,6 @@
                 "repo": "TACO",
                 "stars": 47,
                 "topics": []
-              },
-              "first_seen": "2026-08-29T00:58:54.181Z"
-            },
-            {
-              "node_type": "item",
-              "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks.Zhaoyang Chu, Jiarui Hu, Xingyu Jiang, Pengyu Zou, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, et al. arXiv 2026/05.",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Benchmarking Agents on Real-World Terminal Tasks",
-                "homepage": "https://terminalworld.ai/",
-                "id": 1231907165,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-05-31T15:26:52Z",
-                "open_issues": 0,
-                "owner": "EuniAI",
-                "repo": "TerminalWorld",
-                "stars": 46,
-                "topics": [
-                  "agent",
-                  "benchmark",
-                  "cli",
-                  "dataset",
-                  "evaluation",
-                  "llm",
-                  "terminal"
-                ]
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T19:43:46.978Z",
+    "last_updated": "2026-09-11T19:44:56.941Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
