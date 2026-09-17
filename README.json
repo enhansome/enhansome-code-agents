@@ -113,11 +113,35 @@
                     "open_issues": 163,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12098,
+                    "stars": 12101,
                     "topics": [
                       "agent",
                       "llm",
                       "software-engineering"
+                    ]
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents.Xingyao Wang, Simon Rosenberg, Juan Michelini, Calvin Smith, Hoang Tran, Engel Nyst, Rohit Malhotra, Xuhui Zhou, Valerie Chen, Robert Brennan, et al. arXiv 2025/11.",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "A clean, modular SDK for building AI agents with OpenHands V1.",
+                    "homepage": null,
+                    "id": 1043426082,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-09-17T20:15:29Z",
+                    "open_issues": 566,
+                    "owner": "OpenHands",
+                    "repo": "software-agent-sdk",
+                    "stars": 1130,
+                    "topics": [
+                      "agent",
+                      "sdk"
                     ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -140,30 +164,6 @@
                     "repo": "Prometheus",
                     "stars": 1128,
                     "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:58:54.181Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "The OpenHands Software Agent SDK: A Composable and Extensible Foundation for Production Agents.Xingyao Wang, Simon Rosenberg, Juan Michelini, Calvin Smith, Hoang Tran, Engel Nyst, Rohit Malhotra, Xuhui Zhou, Valerie Chen, Robert Brennan, et al. arXiv 2025/11.",
-                  "description": null,
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "A clean, modular SDK for building AI agents with OpenHands V1.",
-                    "homepage": null,
-                    "id": 1043426082,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-09-16T20:01:33Z",
-                    "open_issues": 535,
-                    "owner": "OpenHands",
-                    "repo": "software-agent-sdk",
-                    "stars": 1123,
-                    "topics": [
-                      "agent",
-                      "sdk"
-                    ]
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 906,
+                    "stars": 907,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -949,10 +949,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-11T11:38:06Z",
-                "open_issues": 25,
+                "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4630,
+                "stars": 4635,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T18:53:05Z",
-                "open_issues": 289,
+                "last_commit": "2026-09-17T16:20:43Z",
+                "open_issues": 293,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 713,
+                "stars": 724,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1143,7 +1143,7 @@
                 "open_issues": 1,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T20:09:49.616Z",
+    "last_updated": "2026-09-17T20:21:01.023Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1170,7 +1170,7 @@
       "open_issues": 70,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 131,
+      "stars": 132,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
