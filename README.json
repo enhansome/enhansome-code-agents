@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 165,
+                    "open_issues": 164,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12106,
+                    "stars": 12107,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-18T16:07:57Z",
-                    "open_issues": 560,
+                    "last_commit": "2026-09-19T15:30:08Z",
+                    "open_issues": 566,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1132,
+                    "stars": 1138,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 42,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 526,
+                    "stars": 527,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -262,7 +262,7 @@
                     "open_issues": 5,
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
-                    "stars": 287,
+                    "stars": 288,
                     "topics": [
                       "claude-code",
                       "code-agent",
@@ -751,7 +751,7 @@
                 "open_issues": 2,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 235,
+                "stars": 236,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2988,
+                "stars": 2989,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4638,
+                "stars": 4639,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T05:17:29Z",
-                "open_issues": 293,
+                "last_commit": "2026-09-19T19:14:11Z",
+                "open_issues": 292,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 731,
+                "stars": 735,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 193,
+                "stars": 195,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1143,7 +1143,7 @@
                 "open_issues": 1,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 43,
+                "stars": 44,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T19:38:40.198Z",
+    "last_updated": "2026-09-19T19:20:03.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
