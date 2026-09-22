@@ -113,7 +113,7 @@
                     "open_issues": 165,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12107,
+                    "stars": 12110,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-21T20:41:06Z",
-                    "open_issues": 546,
+                    "last_commit": "2026-09-22T20:05:21Z",
+                    "open_issues": 521,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1150,
+                    "stars": 1155,
                     "topics": [
                       "agent",
                       "sdk"
@@ -211,11 +211,11 @@
                     "id": 1051347649,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-05-18T18:59:22Z",
-                    "open_issues": 42,
+                    "last_commit": "2026-09-22T19:20:21Z",
+                    "open_issues": 43,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 527,
+                    "stars": 528,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 534,
+                "stars": 535,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 2990,
+                "stars": 2992,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -948,11 +948,11 @@
                 "id": 1074218324,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T11:38:06Z",
+                "last_commit": "2026-09-22T16:33:32Z",
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4646,
+                "stars": 4648,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T20:57:52Z",
-                "open_issues": 282,
+                "last_commit": "2026-09-22T19:49:23Z",
+                "open_issues": 303,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 751,
+                "stars": 755,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 195,
+                "stars": 196,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:06:19.136Z",
+    "last_updated": "2026-09-22T20:12:37.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1170,7 +1170,7 @@
       "open_issues": 70,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 132,
+      "stars": 133,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
