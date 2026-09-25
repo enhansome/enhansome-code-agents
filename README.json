@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 84,
+            "stars": 85,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 175,
+                    "open_issues": 174,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12111,
+                    "stars": 12112,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-09-24T18:02:04Z",
-                    "open_issues": 542,
+                    "last_commit": "2026-09-25T19:15:19Z",
+                    "open_issues": 522,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1165,
+                    "stars": 1169,
                     "topics": [
                       "agent",
                       "sdk"
@@ -292,7 +292,7 @@
                     "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 259,
+                    "stars": 258,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
-                    "stars": 75,
+                    "stars": 77,
                     "topics": [
                       "agents",
                       "language-model",
@@ -952,7 +952,7 @@
                 "open_issues": 25,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4650,
+                "stars": 4652,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T18:12:48Z",
-                "open_issues": 317,
+                "last_commit": "2026-09-25T20:29:41Z",
+                "open_issues": 325,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 767,
+                "stars": 774,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:31:20.590Z",
+    "last_updated": "2026-09-25T20:30:50.804Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
