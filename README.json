@@ -113,7 +113,7 @@
                     "open_issues": 204,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12128,
+                    "stars": 12131,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,8 +134,8 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-05T22:56:30Z",
-                    "open_issues": 516,
+                    "last_commit": "2026-10-06T10:48:35Z",
+                    "open_issues": 526,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
                     "stars": 1203,
@@ -292,7 +292,7 @@
                     "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 258,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 537,
+                "stars": 538,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -751,7 +751,7 @@
                 "open_issues": 2,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 240,
+                "stars": 239,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 25,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4669,
+                "stars": 4670,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,7 +997,7 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:30:07Z",
+                "last_commit": "2026-10-06T06:58:13Z",
                 "open_issues": 364,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T23:10:30.438Z",
+    "last_updated": "2026-10-06T10:56:34.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
