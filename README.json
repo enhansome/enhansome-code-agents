@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 205,
+                    "open_issues": 206,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12137,
+                    "stars": 12139,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T20:38:47Z",
-                    "open_issues": 600,
+                    "last_commit": "2026-10-12T22:23:10Z",
+                    "open_issues": 575,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1238,
+                    "stars": 1244,
                     "topics": [
                       "agent",
                       "sdk"
@@ -183,7 +183,7 @@
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "prose",
-                    "stars": 664,
+                    "stars": 665,
                     "topics": [
                       "csharp",
                       "data-transformation",
@@ -236,7 +236,7 @@
                     "open_issues": 8,
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 466,
+                    "stars": 467,
                     "topics": [
                       "agent",
                       "llm",
@@ -952,7 +952,7 @@
                 "open_issues": 25,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4680,
+                "stars": 4694,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T01:08:09Z",
-                "open_issues": 392,
+                "last_commit": "2026-10-12T20:06:33Z",
+                "open_issues": 391,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 872,
+                "stars": 880,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 5,
                 "owner": "ucsb-mlsec",
                 "repo": "terminal-bench-env",
-                "stars": 74,
+                "stars": 75,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1093,7 +1093,7 @@
                 "open_issues": 0,
                 "owner": "EuniAI",
                 "repo": "TerminalWorld",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:58:20.021Z",
+    "last_updated": "2026-10-12T23:37:50.051Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-11T13:21:54Z",
+      "last_commit": "2026-10-12T15:58:27Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "883bb4d298437393ed0e35ae1cc251ab384ef259",
+    "original_repository_sha": "4b30ef7ac0f3dd3d4755c17c6dcb4918e54b5013",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
