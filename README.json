@@ -10,7 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "A Survey of Vibe Coding with Large Language Models",
             "homepage": null,
             "id": 1074036252,
             "language": null,
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-14T20:33:11Z",
-                    "open_issues": 766,
+                    "last_commit": "2026-10-15T19:58:03Z",
+                    "open_issues": 777,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1257,
+                    "stars": 1260,
                     "topics": [
                       "agent",
                       "sdk"
@@ -179,7 +179,7 @@
                     "id": 44644898,
                     "language": "C#",
                     "license": "NOASSERTION",
-                    "last_commit": "2025-11-19T21:02:37Z",
+                    "last_commit": "2026-10-14T21:52:25Z",
                     "open_issues": 10,
                     "owner": "microsoft",
                     "repo": "prose",
@@ -212,7 +212,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T21:02:03Z",
-                    "open_issues": 46,
+                    "open_issues": 47,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 543,
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3007,
+                "stars": 3005,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -865,7 +865,7 @@
                 "id": 1055966544,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2025-10-21T06:30:01Z",
+                "last_commit": "2026-10-14T21:01:52Z",
                 "open_issues": 1,
                 "owner": "yxwan123",
                 "repo": "TDDev",
@@ -952,7 +952,7 @@
                 "open_issues": 25,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4712,
+                "stars": 4719,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-12T20:06:33Z",
-                "open_issues": 395,
+                "last_commit": "2026-10-14T23:16:09Z",
+                "open_issues": 402,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 895,
+                "stars": 908,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:43:28.413Z",
+    "last_updated": "2026-10-15T20:21:18.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-14T12:21:51Z",
+      "last_commit": "2026-10-15T12:02:11Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "ea92bfd75323e6647f3e3897b858bd60db1273b0",
+    "original_repository_sha": "ecda7bff886ed835b23aa3b77a871d1f30375f51",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
