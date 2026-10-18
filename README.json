@@ -113,7 +113,7 @@
                     "open_issues": 212,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12146,
+                    "stars": 12145,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T17:19:10Z",
-                    "open_issues": 718,
+                    "last_commit": "2026-10-18T12:09:51Z",
+                    "open_issues": 725,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1268,
+                    "stars": 1270,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 47,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 543,
+                    "stars": 545,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -361,7 +361,7 @@
                     "id": 1037873513,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-16T09:45:59Z",
+                    "last_commit": "2026-10-18T05:46:44Z",
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 540,
+                "stars": 541,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -949,10 +949,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-13T07:10:50Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4726,
+                "stars": 4729,
                 "topics": [
                   "agent",
                   "agentic",
@@ -998,10 +998,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-15T21:08:06Z",
-                "open_issues": 414,
+                "open_issues": 419,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 920,
+                "stars": 926,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 197,
+                "stars": 198,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1072,7 +1072,7 @@
                 "open_issues": 5,
                 "owner": "ucsb-mlsec",
                 "repo": "terminal-bench-env",
-                "stars": 75,
+                "stars": 76,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1108,27 +1108,6 @@
             },
             {
               "node_type": "item",
-              "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression.Jincheng Ren, Siwei Wu, Yizhi Li, Kang Zhu, Shu Xu, Boyu Feng, Ruibin Yuan, Wei Zhang, Riza Batista-Navarro, Jian Yang, et al. arXiv 2026/04.",
-              "description": "multimodal-art-projection/TACO",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "This is the repo for the paper A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
-                "homepage": null,
-                "id": 1216904708,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2026-04-23T17:44:59Z",
-                "open_issues": 0,
-                "owner": "multimodal-art-projection",
-                "repo": "TACO",
-                "stars": 48,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:58:54.181Z"
-            },
-            {
-              "node_type": "item",
               "title": "Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories.Ivan Bercovich, Ivgeni Segal, Kexun Zhang, Shashwat Saxena, Aditi Raghunathan, Ziqian Zhong. arXiv 2026/04.",
               "description": "few-sh/terminal-wrench",
               "children": [],
@@ -1147,6 +1126,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
+            },
+            {
+              "node_type": "item",
+              "title": "A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression.Jincheng Ren, Siwei Wu, Yizhi Li, Kang Zhu, Shu Xu, Boyu Feng, Ruibin Yuan, Wei Zhang, Riza Batista-Navarro, Jian Yang, et al. arXiv 2026/04.",
+              "description": "multimodal-art-projection/TACO",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "This is the repo for the paper A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression",
+                "homepage": null,
+                "id": 1216904708,
+                "language": "Python",
+                "license": "Apache-2.0",
+                "last_commit": "2026-04-23T17:44:59Z",
+                "open_issues": 0,
+                "owner": "multimodal-art-projection",
+                "repo": "TACO",
+                "stars": 47,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
             }
           ],
           "description": "Completing tasks in terminals and operating systems.\n… plus 6 earlier paper(s): see the full list.",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T19:25:55.303Z",
+    "last_updated": "2026-10-18T19:26:40.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-17T11:06:57Z",
+      "last_commit": "2026-10-18T11:36:56Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "e329c99bd775e259aeb11cd641f13a59d6199b1f",
+    "original_repository_sha": "f2decbb5a2d84b6f62a126461e7b884fff85575f",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
