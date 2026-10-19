@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 212,
+                    "open_issues": 218,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12145,
+                    "stars": 12151,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T12:09:51Z",
-                    "open_issues": 725,
+                    "last_commit": "2026-10-19T19:45:06Z",
+                    "open_issues": 736,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1270,
+                    "stars": 1274,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 47,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 545,
+                    "stars": 546,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -313,13 +313,34 @@
                     "open_issues": 2,
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
-                    "stars": 80,
+                    "stars": 81,
                     "topics": [
                       "agents",
                       "language-model",
                       "software-engineering",
                       "supervised-finetuning"
                     ]
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SIADAFIX: issue description response for adaptive program repair.Xin Cao, Nan Yu. arXiv 2025/10.",
+                  "description": "liauto-siada/siada-cli",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Code generation tool based on large language models and command line   ",
+                    "homepage": null,
+                    "id": 1037873513,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-18T05:46:44Z",
+                    "open_issues": 0,
+                    "owner": "liauto-siada",
+                    "repo": "siada-cli",
+                    "stars": 48,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -346,27 +367,6 @@
                       "large-language-models",
                       "software-engineering"
                     ]
-                  },
-                  "first_seen": "2026-08-29T00:58:54.181Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "SIADAFIX: issue description response for adaptive program repair.Xin Cao, Nan Yu. arXiv 2025/10.",
-                  "description": "liauto-siada/siada-cli",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Code generation tool based on large language models and command line   ",
-                    "homepage": null,
-                    "id": 1037873513,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T05:46:44Z",
-                    "open_issues": 0,
-                    "owner": "liauto-siada",
-                    "repo": "siada-cli",
-                    "stars": 36,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
                 },
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 911,
+                    "stars": 912,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 16,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3006,
+                "stars": 3005,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4729,
+                "stars": 4735,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-15T21:08:06Z",
-                "open_issues": 419,
+                "last_commit": "2026-10-19T17:58:00Z",
+                "open_issues": 424,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 926,
+                "stars": 933,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1122,7 +1122,7 @@
                 "open_issues": 1,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 48,
+                "stars": 49,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:26:40.273Z",
+    "last_updated": "2026-10-19T21:33:00.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-18T11:36:56Z",
+      "last_commit": "2026-10-19T09:57:52Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "f2decbb5a2d84b6f62a126461e7b884fff85575f",
+    "original_repository_sha": "37e659eb75fa751fa9e55dbb338b72ce48ffa4be",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
