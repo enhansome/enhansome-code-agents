@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 218,
+                    "open_issues": 220,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12151,
+                    "stars": 12153,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-19T19:45:06Z",
-                    "open_issues": 736,
+                    "last_commit": "2026-10-20T16:51:04Z",
+                    "open_issues": 742,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1274,
+                    "stars": 1283,
                     "topics": [
                       "agent",
                       "sdk"
@@ -159,7 +159,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-16T13:46:17Z",
-                    "open_issues": 9,
+                    "open_issues": 10,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
                     "stars": 1134,
@@ -335,7 +335,7 @@
                     "id": 1037873513,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-18T05:46:44Z",
+                    "last_commit": "2026-10-20T06:00:48Z",
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 541,
+                "stars": 542,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -772,7 +772,7 @@
                 "open_issues": 0,
                 "owner": "Godheritage",
                 "repo": "BesiegeField",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4735,
+                "stars": 4737,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T17:58:00Z",
-                "open_issues": 424,
+                "last_commit": "2026-10-20T20:17:32Z",
+                "open_issues": 430,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 933,
+                "stars": 943,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 198,
+                "stars": 199,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1093,7 +1093,7 @@
                 "open_issues": 0,
                 "owner": "EuniAI",
                 "repo": "TerminalWorld",
-                "stars": 50,
+                "stars": 51,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:33:00.119Z",
+    "last_updated": "2026-10-20T20:37:39.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1170,7 +1170,7 @@
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 166,
+      "stars": 165,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
