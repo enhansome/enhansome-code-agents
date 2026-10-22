@@ -36,7 +36,7 @@
             "id": 1022804719,
             "language": "Jupyter Notebook",
             "license": null,
-            "last_commit": "2025-11-24T16:22:11Z",
+            "last_commit": "2026-10-21T23:37:26Z",
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
@@ -113,7 +113,7 @@
                     "open_issues": 221,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12157,
+                    "stars": 12156,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-21T20:18:04Z",
-                    "open_issues": 737,
+                    "last_commit": "2026-10-22T20:28:50Z",
+                    "open_issues": 699,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1285,
+                    "stars": 1293,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 47,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 548,
+                    "stars": 550,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -339,7 +339,7 @@
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 48,
+                    "stars": 50,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -466,16 +466,16 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing",
+                    "description": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing (ASE '25, South Korea)",
                     "homepage": null,
                     "id": 1044527513,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2025-10-07T21:53:05Z",
+                    "last_commit": "2026-10-22T13:26:08Z",
                     "open_issues": 0,
                     "owner": "kitsiosk",
                     "repo": "blast",
-                    "stars": 5,
+                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 912,
+                    "stars": 913,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -797,10 +797,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T07:16:44Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3006,
+                "stars": 3007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4738,
+                "stars": 4741,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T20:17:32Z",
-                "open_issues": 430,
+                "last_commit": "2026-10-22T19:59:38Z",
+                "open_issues": 383,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 948,
+                "stars": 952,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T20:38:49.339Z",
+    "last_updated": "2026-10-22T20:34:15.164Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-19T09:57:52Z",
+      "last_commit": "2026-10-22T12:20:00Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "37e659eb75fa751fa9e55dbb338b72ce48ffa4be",
+    "original_repository_sha": "70b6f0ae13852a55081086dd44672c25f775b87f",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
