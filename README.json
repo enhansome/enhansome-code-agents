@@ -113,7 +113,7 @@
                     "open_issues": 221,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12156,
+                    "stars": 12155,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-22T20:28:50Z",
-                    "open_issues": 699,
+                    "last_commit": "2026-10-23T20:05:10Z",
+                    "open_issues": 698,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1293,
+                    "stars": 1300,
                     "topics": [
                       "agent",
                       "sdk"
@@ -339,7 +339,7 @@
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 50,
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -440,6 +440,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing.Konstantinos Kitsios, Marco Castelluccio, Alberto Bacchelli. ASE 2025.",
+                  "description": "kitsiosk/blast",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing (ASE '25, South Korea)",
+                    "homepage": null,
+                    "id": 1044527513,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-22T13:26:08Z",
+                    "open_issues": 0,
+                    "owner": "kitsiosk",
+                    "repo": "blast",
+                    "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SWE-Effi: Re-Evaluating Software AI Agent System Effectiveness Under Resource Constraints.Zhiyu Fan, Kirill Vasilevski, Dayi Lin, Boyuan Chen, Yihao Chen, Zhiqing Zhong, Jie M. Zhang, Pinjia He, Ahmed E. Hassan. arXiv 2025/09.",
                   "description": "Centre-for-Software-Excellence/SWE-Effi",
                   "children": [],
@@ -455,27 +476,6 @@
                     "owner": "Centre-for-Software-Excellence",
                     "repo": "SWE-Effi",
                     "stars": 10,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:58:54.181Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing.Konstantinos Kitsios, Marco Castelluccio, Alberto Bacchelli. ASE 2025.",
-                  "description": "kitsiosk/blast",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing (ASE '25, South Korea)",
-                    "homepage": null,
-                    "id": 1044527513,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-22T13:26:08Z",
-                    "open_issues": 0,
-                    "owner": "kitsiosk",
-                    "repo": "blast",
-                    "stars": 8,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3007,
+                "stars": 3008,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4741,
+                "stars": 4745,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T19:59:38Z",
-                "open_issues": 383,
+                "last_commit": "2026-10-23T00:41:39Z",
+                "open_issues": 377,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 952,
+                "stars": 962,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:34:15.164Z",
+    "last_updated": "2026-10-23T20:28:59.621Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
