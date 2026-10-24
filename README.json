@@ -113,7 +113,7 @@
                     "open_issues": 221,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12155,
+                    "stars": 12154,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,8 +134,8 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T20:05:10Z",
-                    "open_issues": 698,
+                    "last_commit": "2026-10-24T08:46:23Z",
+                    "open_issues": 718,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
                     "stars": 1300,
@@ -159,7 +159,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-08-16T13:46:17Z",
-                    "open_issues": 10,
+                    "open_issues": 8,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
                     "stars": 1134,
@@ -212,10 +212,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T21:02:03Z",
-                    "open_issues": 47,
+                    "open_issues": 49,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 550,
+                    "stars": 552,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4745,
+                "stars": 4748,
                 "topics": [
                   "agent",
                   "agentic",
@@ -998,10 +998,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T00:41:39Z",
-                "open_issues": 377,
+                "open_issues": 383,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 962,
+                "stars": 966,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T20:28:59.621Z",
+    "last_updated": "2026-10-24T19:30:39.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,11 +1166,11 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-22T12:20:00Z",
+      "last_commit": "2026-10-24T11:32:13Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 166,
+      "stars": 168,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "70b6f0ae13852a55081086dd44672c25f775b87f",
+    "original_repository_sha": "60344be866e445c7eced7a097780d2f969df6529",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
