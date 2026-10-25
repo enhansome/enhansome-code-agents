@@ -113,7 +113,7 @@
                     "open_issues": 221,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12154,
+                    "stars": 12153,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T08:46:23Z",
-                    "open_issues": 718,
+                    "last_commit": "2026-10-25T12:07:15Z",
+                    "open_issues": 738,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1300,
+                    "stars": 1303,
                     "topics": [
                       "agent",
                       "sdk"
@@ -236,7 +236,7 @@
                     "open_issues": 8,
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 467,
+                    "stars": 468,
                     "topics": [
                       "agent",
                       "llm",
@@ -419,27 +419,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation.Andrey Podivilov, Vadim Lomshakov, Sergey Savin, Matvei Startsev, Roman Pozharskiy, Maksim Parshin, Sergey Nikolenko. arXiv 2026/07.",
-                  "description": "agent-lens/agent-lens-bench",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Diagnosing and comparing coding agents, detecting product regressions",
-                    "homepage": "https://agent-lens.github.io/agent-lens-bench/",
-                    "id": 1258184318,
-                    "language": "Python",
-                    "license": "Apache-2.0",
-                    "last_commit": "2026-09-02T06:48:31Z",
-                    "open_issues": 0,
-                    "owner": "agent-lens",
-                    "repo": "agent-lens-bench",
-                    "stars": 11,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:58:54.181Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Automated Generation of Issue-Reproducing Tests by Combining LLMs and Search-Based Testing.Konstantinos Kitsios, Marco Castelluccio, Alberto Bacchelli. ASE 2025.",
                   "description": "kitsiosk/blast",
                   "children": [],
@@ -455,6 +434,27 @@
                     "owner": "kitsiosk",
                     "repo": "blast",
                     "stars": 11,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:58:54.181Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation.Andrey Podivilov, Vadim Lomshakov, Sergey Savin, Matvei Startsev, Roman Pozharskiy, Maksim Parshin, Sergey Nikolenko. arXiv 2026/07.",
+                  "description": "agent-lens/agent-lens-bench",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Diagnosing and comparing coding agents, detecting product regressions",
+                    "homepage": "https://agent-lens.github.io/agent-lens-bench/",
+                    "id": 1258184318,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-09-02T06:48:31Z",
+                    "open_issues": 0,
+                    "owner": "agent-lens",
+                    "repo": "agent-lens-bench",
+                    "stars": 10,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3008,
+                "stars": 3007,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4748,
+                "stars": 4750,
                 "topics": [
                   "agent",
                   "agentic",
@@ -1001,7 +1001,7 @@
                 "open_issues": 383,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 966,
+                "stars": 970,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:30:39.649Z",
+    "last_updated": "2026-10-25T19:39:40.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,8 +1166,8 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-24T11:32:13Z",
-      "open_issues": 71,
+      "last_commit": "2026-10-25T11:59:41Z",
+      "open_issues": 72,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
       "stars": 168,
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "60344be866e445c7eced7a097780d2f969df6529",
+    "original_repository_sha": "683d3a642d8d5d9c00bc7fc5c9a2774d6c74aa8a",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
