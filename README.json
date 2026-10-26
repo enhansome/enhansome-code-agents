@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 90,
+            "stars": 91,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
@@ -113,7 +113,7 @@
                     "open_issues": 221,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12153,
+                    "stars": 12154,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-25T12:07:15Z",
-                    "open_issues": 738,
+                    "last_commit": "2026-10-26T15:49:11Z",
+                    "open_issues": 734,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1303,
+                    "stars": 1306,
                     "topics": [
                       "agent",
                       "sdk"
@@ -292,7 +292,7 @@
                     "open_issues": 5,
                     "owner": "lingxi-agent",
                     "repo": "Lingxi",
-                    "stars": 256,
+                    "stars": 257,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -807,6 +807,27 @@
             },
             {
               "node_type": "item",
+              "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning.Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie Zhan, Hongsheng Li. arXiv 2025/09.",
+              "description": "mnluzimu/WebGen-Agent",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 1047795116,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2026-07-10T05:35:11Z",
+                "open_issues": 0,
+                "owner": "mnluzimu",
+                "repo": "WebGen-Agent",
+                "stars": 30,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:58:54.181Z"
+            },
+            {
+              "node_type": "item",
               "title": "EfficientUICoder: Efficient MLLM-based UI Code Generation via Input and Output Token Compression.Jingyu Xiao, Zhongyi Zhang, Yuxuan Wan, Yintong Huo, Yang Liu, Michael R.Lyu. arXiv 2025/09.",
               "description": "WebPAI/EfficientUICoder",
               "children": [],
@@ -829,27 +850,6 @@
                   "token-compression",
                   "ui2code"
                 ]
-              },
-              "first_seen": "2026-08-29T00:58:54.181Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level Feedback and Step-Level Reinforcement Learning.Zimu Lu, Houxing Ren, Yunqiao Yang, Ke Wang, Zhuofan Zong, Junting Pan, Mingjie Zhan, Hongsheng Li. arXiv 2025/09.",
-              "description": "mnluzimu/WebGen-Agent",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 1047795116,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2026-07-10T05:35:11Z",
-                "open_issues": 0,
-                "owner": "mnluzimu",
-                "repo": "WebGen-Agent",
-                "stars": 28,
-                "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
             },
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4750,
+                "stars": 4754,
                 "topics": [
                   "agent",
                   "agentic",
@@ -998,10 +998,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T00:41:39Z",
-                "open_issues": 383,
+                "open_issues": 389,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 970,
+                "stars": 973,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 199,
+                "stars": 200,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1119,7 +1119,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T04:56:59Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
                 "stars": 49,
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:39:40.979Z",
+    "last_updated": "2026-10-26T21:38:38.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,8 +1166,8 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-25T11:59:41Z",
-      "open_issues": 72,
+      "last_commit": "2026-10-26T13:30:12Z",
+      "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
       "stars": 168,
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "683d3a642d8d5d9c00bc7fc5c9a2774d6c74aa8a",
+    "original_repository_sha": "725ab1db879ed18335785642fe2ac050ed3b5986",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
