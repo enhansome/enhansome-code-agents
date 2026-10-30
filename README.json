@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 221,
+                    "open_issues": 229,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12166,
+                    "stars": 12170,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-29T21:07:14Z",
-                    "open_issues": 755,
+                    "last_commit": "2026-10-30T19:30:17Z",
+                    "open_issues": 749,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1321,
+                    "stars": 1325,
                     "topics": [
                       "agent",
                       "sdk"
@@ -162,7 +162,7 @@
                     "open_issues": 8,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1147,
+                    "stars": 1151,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -215,7 +215,7 @@
                     "open_issues": 51,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 555,
+                    "stars": 556,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -262,7 +262,7 @@
                     "open_issues": 5,
                     "owner": "JARVIS-Xs",
                     "repo": "SE-Agent",
-                    "stars": 289,
+                    "stars": 290,
                     "topics": [
                       "claude-code",
                       "code-agent",
@@ -751,7 +751,7 @@
                 "open_issues": 1,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 243,
+                "stars": 244,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4761,
+                "stars": 4763,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-29T00:32:29Z",
-                "open_issues": 507,
+                "last_commit": "2026-10-30T20:14:27Z",
+                "open_issues": 514,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 989,
+                "stars": 993,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:49:29.894Z",
+    "last_updated": "2026-10-30T21:31:38.387Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,7 +1166,7 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-10-29T13:36:10Z",
+      "last_commit": "2026-10-30T13:25:42Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "2d9b8de3203cfb688ccb45e178d47019ed1dc95b",
+    "original_repository_sha": "2892ba8ab9208d7f4ad45f397c9137c84068c145",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
