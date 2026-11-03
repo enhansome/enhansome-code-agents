@@ -40,7 +40,7 @@
             "open_issues": 2,
             "owner": "SAILResearch",
             "repo": "AI_Teammates_in_SE3",
-            "stars": 93,
+            "stars": 94,
             "topics": []
           },
           "first_seen": "2026-08-29T00:58:54.181Z"
@@ -110,7 +110,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 238,
+                    "open_issues": 249,
                     "owner": "bytedance",
                     "repo": "trae-agent",
                     "stars": 12175,
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-02T23:29:55Z",
-                    "open_issues": 765,
+                    "last_commit": "2026-11-03T21:16:01Z",
+                    "open_issues": 746,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1341,
+                    "stars": 1348,
                     "topics": [
                       "agent",
                       "sdk"
@@ -162,7 +162,7 @@
                     "open_issues": 8,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1153,
+                    "stars": 1154,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -212,7 +212,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T21:02:03Z",
-                    "open_issues": 52,
+                    "open_issues": 53,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 557,
@@ -339,7 +339,7 @@
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 63,
+                    "stars": 64,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -751,7 +751,7 @@
                 "open_issues": 1,
                 "owner": "YxuanAr",
                 "repo": "Code-as-Room",
-                "stars": 244,
+                "stars": 245,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3010,
+                "stars": 3011,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4770,
+                "stars": 4781,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-02T23:06:17Z",
-                "open_issues": 544,
+                "last_commit": "2026-11-03T21:37:37Z",
+                "open_issues": 489,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1002,
+                "stars": 1004,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 200,
+                "stars": 201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1080,7 +1080,7 @@
             {
               "node_type": "item",
               "title": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks.Zhaoyang Chu, Jiarui Hu, Xingyu Jiang, Pengyu Zou, Han Li, Chao Peng, Peter O'Hearn, Earl T. Barr, Mark Harman, Federica Sarro, et al. arXiv 2026/05.",
-              "description": "EuniAI/TerminalWorld",
+              "description": "terminalworld/TerminalWorld",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1091,9 +1091,9 @@
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-31T15:26:52Z",
                 "open_issues": 0,
-                "owner": "EuniAI",
+                "owner": "terminalworld",
                 "repo": "TerminalWorld",
-                "stars": 53,
+                "stars": 54,
                 "topics": [
                   "agent",
                   "benchmark",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T23:53:14.200Z",
+    "last_updated": "2026-11-03T22:18:58.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,11 +1166,11 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-11-02T16:29:26Z",
+      "last_commit": "2026-11-03T14:36:07Z",
       "open_issues": 71,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
-      "stars": 169,
+      "stars": 170,
       "topics": [
         "ai-agents",
         "awesome-code-agents",
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "0ade1dc97baba0a081c77ef970858a808a57583c",
+    "original_repository_sha": "96557bf870e313ff014e01e4b72cdbfd492b9be5",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
