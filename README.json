@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 249,
+                    "open_issues": 250,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12175,
+                    "stars": 12178,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-03T21:16:01Z",
+                    "last_commit": "2026-11-04T22:09:31Z",
                     "open_issues": 746,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1348,
+                    "stars": 1351,
                     "topics": [
                       "agent",
                       "sdk"
@@ -313,7 +313,7 @@
                     "open_issues": 2,
                     "owner": "LegoX",
                     "repo": "SWE-Lego",
-                    "stars": 81,
+                    "stars": 80,
                     "topics": [
                       "agents",
                       "language-model",
@@ -386,7 +386,7 @@
                     "open_issues": 0,
                     "owner": "YerbaPage",
                     "repo": "SWE-Debate",
-                    "stars": 35,
+                    "stars": 34,
                     "topics": [
                       "code-generation",
                       "large-language-models",
@@ -648,7 +648,7 @@
                     "open_issues": 0,
                     "owner": "Infini-AI-Lab",
                     "repo": "FCV",
-                    "stars": 14,
+                    "stars": 13,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -697,7 +697,7 @@
                     "open_issues": 3,
                     "owner": "peng-weihan",
                     "repo": "SWE-QA-Bench",
-                    "stars": 58,
+                    "stars": 59,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 542,
+                "stars": 543,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3011,
+                "stars": 3012,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4781,
+                "stars": 4782,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-03T21:37:37Z",
-                "open_issues": 489,
+                "last_commit": "2026-11-04T20:26:59Z",
+                "open_issues": 490,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1004,
+                "stars": 1009,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 201,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1084,12 +1084,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "Benchmarking Agents on Real-World Terminal Tasks",
+                "description": "TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks (NeurIPS 2026 Evaluations and Datasets Track)",
                 "homepage": "https://terminalworld.ai/",
                 "id": 1231907165,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-05-31T15:26:52Z",
+                "last_commit": "2026-11-04T16:51:49Z",
                 "open_issues": 0,
                 "owner": "terminalworld",
                 "repo": "TerminalWorld",
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:18:58.598Z",
+    "last_updated": "2026-11-04T22:38:37.592Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
@@ -1166,8 +1166,8 @@
       "id": 1070840924,
       "language": "Python",
       "license": "Apache-2.0",
-      "last_commit": "2026-11-03T14:36:07Z",
-      "open_issues": 71,
+      "last_commit": "2026-11-04T14:52:28Z",
+      "open_issues": 70,
       "owner": "EuniAI",
       "repo": "awesome-code-agents",
       "stars": 170,
@@ -1181,7 +1181,7 @@
         "software-engineering"
       ]
     },
-    "original_repository_sha": "96557bf870e313ff014e01e4b72cdbfd492b9be5",
+    "original_repository_sha": "0f2485ef3abcde50f4d37f0e8917cad4dd90f773",
     "enhanced_repository": "enhansome/enhansome-code-agents",
     "enhanced_repository_description": null,
     "title": "Awesome Code Agents with stars"
