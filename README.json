@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 253,
+                    "open_issues": 254,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12190,
+                    "stars": 12192,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-07T20:53:03Z",
-                    "open_issues": 782,
+                    "last_commit": "2026-11-08T19:44:03Z",
+                    "open_issues": 786,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1357,
+                    "stars": 1362,
                     "topics": [
                       "agent",
                       "sdk"
@@ -162,7 +162,7 @@
                     "open_issues": 10,
                     "owner": "EuniAI",
                     "repo": "Prometheus",
-                    "stars": 1154,
+                    "stars": 1155,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -215,7 +215,7 @@
                     "open_issues": 53,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 557,
+                    "stars": 558,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -360,7 +360,7 @@
                     "open_issues": 0,
                     "owner": "cslsolow",
                     "repo": "SWE-Exp",
-                    "stars": 47,
+                    "stars": 48,
                     "topics": [
                       "code-generation",
                       "language-model",
@@ -524,7 +524,7 @@
                     "open_issues": 1,
                     "owner": "InternLM",
                     "repo": "JanusCoder",
-                    "stars": 81,
+                    "stars": 82,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3011,
+                "stars": 3013,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4793,
+                "stars": 4798,
                 "topics": [
                   "agent",
                   "agentic",
@@ -998,10 +998,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T21:08:48Z",
-                "open_issues": 507,
+                "open_issues": 515,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1019,
+                "stars": 1022,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1122,7 +1122,7 @@
                 "open_issues": 2,
                 "owner": "few-sh",
                 "repo": "terminal-wrench",
-                "stars": 52,
+                "stars": 53,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T20:55:02.647Z",
+    "last_updated": "2026-11-08T21:11:50.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
