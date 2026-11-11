@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-10T21:58:49Z",
-                    "open_issues": 811,
+                    "last_commit": "2026-11-11T23:21:55Z",
+                    "open_issues": 828,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1374,
+                    "stars": 1383,
                     "topics": [
                       "agent",
                       "sdk"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4805,
+                "stars": 4808,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-10T22:23:06Z",
-                "open_issues": 527,
+                "last_commit": "2026-11-11T16:54:52Z",
+                "open_issues": 569,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1030,
+                "stars": 1041,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1022,7 +1022,7 @@
                 "open_issues": 1,
                 "owner": "QuantaAlpha",
                 "repo": "GitTaskBench",
-                "stars": 260,
+                "stars": 261,
                 "topics": [
                   "claude-code",
                   "code-agent",
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 202,
+                "stars": 203,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T22:23:08.203Z",
+    "last_updated": "2026-11-11T23:28:23.622Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
