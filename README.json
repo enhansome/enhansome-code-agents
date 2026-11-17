@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-17T00:23:34Z",
-                    "open_issues": 804,
+                    "last_commit": "2026-11-17T22:51:10Z",
+                    "open_issues": 805,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1403,
+                    "stars": 1405,
                     "topics": [
                       "agent",
                       "sdk"
@@ -215,7 +215,7 @@
                     "open_issues": 53,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
-                    "stars": 565,
+                    "stars": 566,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -236,7 +236,7 @@
                     "open_issues": 8,
                     "owner": "OpenAutoCoder",
                     "repo": "live-swe-agent",
-                    "stars": 469,
+                    "stars": 470,
                     "topics": [
                       "agent",
                       "llm",
@@ -313,7 +313,7 @@
                     "open_issues": 0,
                     "owner": "liauto-siada",
                     "repo": "siada-cli",
-                    "stars": 84,
+                    "stars": 88,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -503,7 +503,7 @@
                     "open_issues": 4,
                     "owner": "facebookresearch",
                     "repo": "cwm",
-                    "stars": 920,
+                    "stars": 921,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:58:54.181Z"
@@ -594,7 +594,7 @@
                     "open_issues": 0,
                     "owner": "QuantaAlpha",
                     "repo": "EvoControl",
-                    "stars": 135,
+                    "stars": 136,
                     "topics": [
                       "alphaevolve",
                       "code-agent",
@@ -730,7 +730,7 @@
                 "open_issues": 10,
                 "owner": "InternRobotics",
                 "repo": "MeshCoder",
-                "stars": 550,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4821,
+                "stars": 4826,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T22:34:46Z",
-                "open_issues": 574,
+                "last_commit": "2026-11-17T06:36:07Z",
+                "open_issues": 548,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1071,
+                "stars": 1082,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:49:42.629Z",
+    "last_updated": "2026-11-17T23:51:12.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
