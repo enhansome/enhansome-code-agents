@@ -110,10 +110,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-02-05T11:21:00Z",
-                    "open_issues": 251,
+                    "open_issues": 253,
                     "owner": "bytedance",
                     "repo": "trae-agent",
-                    "stars": 12213,
+                    "stars": 12215,
                     "topics": [
                       "agent",
                       "llm",
@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-21T15:57:14Z",
-                    "open_issues": 828,
+                    "last_commit": "2026-11-22T19:53:22Z",
+                    "open_issues": 824,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1416,
+                    "stars": 1419,
                     "topics": [
                       "agent",
                       "sdk"
@@ -212,7 +212,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-22T21:02:03Z",
-                    "open_issues": 56,
+                    "open_issues": 57,
                     "owner": "scaleapi",
                     "repo": "SWE-bench_Pro-os",
                     "stars": 570,
@@ -800,7 +800,7 @@
                 "open_issues": 15,
                 "owner": "leigest519",
                 "repo": "ScreenCoder",
-                "stars": 3017,
+                "stars": 3019,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -869,7 +869,7 @@
                 "open_issues": 1,
                 "owner": "yxwan123",
                 "repo": "TDDev",
-                "stars": 13,
+                "stars": 14,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4833,
+                "stars": 4835,
                 "topics": [
                   "agent",
                   "agentic",
@@ -1001,7 +1001,7 @@
                 "open_issues": 488,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1113,
+                "stars": 1117,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1051,7 +1051,7 @@
                 "open_issues": 17,
                 "owner": "neulab",
                 "repo": "agent-data-protocol",
-                "stars": 205,
+                "stars": 204,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T22:11:08.925Z",
+    "last_updated": "2026-11-22T22:29:03.859Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
