@@ -134,11 +134,11 @@
                     "id": 1043426082,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-11-27T00:12:16Z",
-                    "open_issues": 859,
+                    "last_commit": "2026-11-28T00:04:00Z",
+                    "open_issues": 862,
                     "owner": "OpenHands",
                     "repo": "software-agent-sdk",
-                    "stars": 1429,
+                    "stars": 1430,
                     "topics": [
                       "agent",
                       "sdk"
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ruc-datalab",
                 "repo": "DeepAnalyze",
-                "stars": 4848,
+                "stars": 4850,
                 "topics": [
                   "agent",
                   "agentic",
@@ -997,11 +997,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T17:19:57Z",
-                "open_issues": 387,
+                "last_commit": "2026-11-27T18:44:50Z",
+                "open_issues": 364,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 1138,
+                "stars": 1146,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:58:54.181Z"
@@ -1158,7 +1158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T01:01:14.645Z",
+    "last_updated": "2026-11-28T00:32:31.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "A living collection of frontier research on code agents, from the code we build to the worlds we act in.",
